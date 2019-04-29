@@ -1,0 +1,11 @@
+name: bayvista
+license: MIT
+licenselink: https://github.com/bayvistabc/www.bayvista.org/blob/master/LICENSE
+description: Theme for the Bay Vista Baptist Church website
+homepage: https://www.bayvista.org/
+tags: []
+features: []
+min_version: "0.41"
+author:
+  name: Daniel J. Summers
+  homepage: https://www.bitbadger.solutions
