@@ -1,0 +1,72 @@
+- name: Bed Babies &amp; Toddlers
+  building: EEC
+  teachers:
+  - name: Helen Atkins
+    img: helen-atkins-150
+- name: Preschool
+  building: EEC
+  teachers:
+  - name: Bobbie Singletary
+  - name: Cindy Singletary
+- name: Kindergarten / Elementary
+  age_group: K - 5th Grade
+  building: EEC
+  room: Red Room
+  curriculum: The Gospel Project for Kids
+  teachers:
+  - name: Angel Thomas
+    img: angel-thomas-150
+  - name: Alan Thomas
+    img: alan-thomas-150
+  - name: Teresa Untershine
+- name: Middle School / Youth
+  age_group: 6th - 12th Grades
+  building: EEC
+  room: Green Room
+  curriculum: The Gospel Project for Students
+  teachers:
+  - name: Daniel Summers
+    img: daniel-summers-150
+- name: '<span title="Delta Alpha Omega">&Delta;&Alpha;&Omega;</span> <em class="pull-right">(Change for God)</em>'
+  age_group: College / Career
+  building: EEC
+  room: Yellow Room
+  curriculum: The Gospel Project for Students
+  teachers:
+  - name: David Atkins
+    img: david-atkins-150
+- name: Adult 1
+  age_group: Adult Co-Ed
+  building: EEC
+  curriculum: The Gospel Project
+  teachers:
+  - name: Danny Nance
+    img: danny-nance-150
+- name: Ladies 1
+  age_group: Adult Ladies
+  building: EEC
+  room: Orange Room
+  curriculum: The Gospel Project
+  teachers:
+  - name: Betty Hardman
+    img: betty-hardman-150
+- name: Adult 3
+  age_group: Median Adult Co-Ed
+  building: Worship Center
+  room: West Practice Room
+  curriculum: The Gospel Project
+  teachers:
+  - name: Don Beaucaire
+    img: don-beaucaire-150
+  - name: Cheryl Kirk
+    img: cheryl-kirk-150
+- name: Adult 4
+  age_group: Median Adult Co-Ed
+  building: EEC
+  room: Room 303
+  curriculum: Bible Studies for Life
+  teachers:
+  - name: Jean Sprouse
+    img: jean-sprouse-150
+  - name: David Kinabrew
+    img: david-kinabrew-150

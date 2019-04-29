@@ -1,3 +1,7 @@
 baseURL: https://www.bayvista.org/
 languageCode: en-US
 title: "Bay Vista Baptist Church"
+theme: bayvista
+params:
+  subtitle: Connecting People to God ~ Connecting People to One Another ~ Connecting People to Service
+  email: office@bayvista.org

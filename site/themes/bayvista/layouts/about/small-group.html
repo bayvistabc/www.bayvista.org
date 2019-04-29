@@ -1,0 +1,25 @@
+{{ define "main" }}
+  {{ .Content }}
+  <div class="small-groups">
+      {{ range .Site.Data.small_groups }}
+        <div class="small-group">
+          <div class="bvbc-heading"><h4 class="small-group-heading">{{ .name }}</h4></div>
+          <table>
+            {{ with .age_group }}<tr><td class="text-center small-group-age"><strong>{{ . }}</strong></td></tr>{{ end }}
+            {{ range .teachers }}
+              <tr>
+                <td class="text-center">
+                  {{ with .img }}<div class="teacher-image" style="background-image: url('/img/teachers/{{ . }}.jpg')">&nbsp;</div>{{ end }}
+                  {{ .name }}
+                </td>
+              </tr>
+            {{ end }}
+          </table>
+          <div class="small-group-footer">
+            <i class="fa fa-building" title="Location"></i> {{ .building }}{{ with.room }}, {{ . }}{{ end }}
+            {{ with .curriculum }}<br><i class="fa fa-book" title="Curriculum"></i> <em>{{ . }}</em>{{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+{{ end }}

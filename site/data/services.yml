@@ -1,0 +1,14 @@
+- day: Sunday
+  services:
+  - name: Sunday School (all ages)
+    time: 9:00 am
+  - name: Worship Service
+    time: 10:30 am
+  - name: Discipleship Training
+    time: 5:00 pm
+  - name: Awana / Trek / Journey
+    time: 5:00 pm
+- day: Wednesday
+  services:
+  - name: Prayer Meeting
+    time: 6:30 pm

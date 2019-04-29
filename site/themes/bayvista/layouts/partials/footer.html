@@ -1,0 +1,10 @@
+<footer>
+  <span class="no-br"><i class="fa fa-lg fa-road" title="Address"></i> 2485 Pass Road &nbsp; Biloxi, MS 39531</span>
+  &nbsp; &nbsp;
+  <span class="no-br"><i class="fa fa-lg fa-phone" title="Phone"></i> (228) 388-1166</span>
+  &nbsp; &nbsp;
+  {{ with .Site.Params.email }}
+    <span class="no-br"><i class="fa fa-lg fa-envelope" title="E-mail"></i><a href="mailto:{{ . }}">{{ . }}</a></span>
+  {{ end }}
+</footer>
+<div id="motto" class="text-center"><strong>{{ .Site.Params.subtitle }}</strong></div>

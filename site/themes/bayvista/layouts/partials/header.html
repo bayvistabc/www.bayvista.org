@@ -1,0 +1,40 @@
+{{ $u := .Site.BaseURL | relURL }}
+<nav class="navbar" role="navigation">
+  {{ if .IsHome }}
+    <span>&nbsp;</span>
+  {{ else }}
+    <a class="home-link" href="{{ $u }}">{{ .Site.Title }}</a>
+  {{ end }}
+  <ul>
+    <li class="dropdown">
+      <a class="dropbtn" role="button">Ministries&nbsp; <i class="fa fa-caret-down"></i></a>
+      <div class="dropdown-content" role="menu">
+        <a href="{{ $u }}ministries/small-groups/">Small Groups</a>
+        <a href="{{ $u }}ministries/worship/">Worship</a>
+        <a href="{{ $u }}ministries/teens/">Teens</a>
+        <a href="{{ $u }}ministries/children/">Children</a>
+        <a href="{{ $u }}ministries/men/">Men</a>
+        <a href="{{ $u }}ministries/women/">Women</a>
+        <a href="{{ $u }}ministries/senior-adults/">Senior Adults</a>
+      </div>
+    </li>
+    <li class="dropdown">
+      <a class="dropbtn" role="button">About Us&nbsp; <i class="fa fa-caret-down"></i></a>
+      <div class="dropdown-content" role="menu">
+        <a href="{{ $u }}about-us/church-staff/">Church Staff</a>
+        <a href="{{ $u }}about-us/directions-service/">Directions/Service</a>
+        <a href="{{ $u }}about-us/faqs/">FAQ&rsquo;s</a>
+        <a href="{{ $u }}about-us/what-we-believe/">What We Believe</a>
+        <a href="{{ $u }}about-us/campus-map/">Campus Map</a>
+        <a href="{{ $u }}about-us/membership/">Membership</a>
+      </div>
+    </li>
+    <li class="dropdown">
+      <a class="dropbtn" role="button">Resources&nbsp; <i class="fa fa-caret-down"></i></a>
+      <div class="dropdown-content" role="menu">
+        <a href="{{ $u }}category/audio/">Sermons</a>
+      </div>
+    </li>
+    <li><a href="{{ $u }}contact-us/">Contact Us</a></li>
+    </ul>
+  </nav>
