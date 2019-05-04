@@ -6,4 +6,7 @@
   {{ hugo.Generator }}
   <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
   <link rel="stylesheet" href="{{ relURL (.Site.BaseURL) }}css/style.css">
+  {{ if eq .Section "podcast" }}
+    <script src="{{ .Site.BaseURL | relURL }}js/play-count.js" async></script>
+  {{ end }}
 </head>

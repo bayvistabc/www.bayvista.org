@@ -15,7 +15,7 @@
             {{ block "page-header" . }}
               <h2>{{ .Title }}</h2>
               {{ with .Description }}{{ . }}{{ end }}
-              {{ with .Params.passage }}{{ . }}{{ end }}
+              {{ with .Params.episode }}{{ with .passage }}{{ . }}{{ end }}{{ end }}
             {{ end }}
           </header>
         {{ end }}
