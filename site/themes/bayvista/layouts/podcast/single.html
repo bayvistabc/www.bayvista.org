@@ -1,43 +1,43 @@
 {{ define "main" }}
-  {{ with .Params.episode }}
+  {{ with .Params.episode -}}
     <div class="article-metadata-single">
       <i class="fa fa-user fa-lg" title="Speaker"></i> {{ .speaker }} &nbsp; &nbsp;
       <i class="fa fa-calendar fa-lg" title="Service Date"></i> {{ .service_date }}
     </div>
-  {{ end}}
-  {{ .Content }}
+  {{- end }}
+  {{ .Content -}}
   <p>&nbsp;</p>
   <p>
-    {{ with .Params.episode }}
+    {{ with .Params.episode -}}
     <audio controls style="width:100%;" onplaying="bayvista.countPlay('{{ .media }}')">
       <source src="http://files.djs-consulting.com/sermons/{{ .media }}">
     </audio>
     <br>
     <strong>Listen Online</strong>
     <span class="pull-right"><em><a href="http://pdcst.click/c/bay-vista/files.djs-consulting.com/sermons/{{ .media }}">Download File</a></em></span>
-    {{ end }}
+    {{- end }}
   </p>
   <p>&nbsp;</p>
   <nav>
     <ul>
       <li>
-        {{ with .PrevInSection }}
+        {{ with .PrevInSection -}}
           <strong>Previous Sermon</strong>
           <br>
           &laquo;
           <a href="{{ .Permalink | relURL }}" title="{{ .Title }} | {{ $.Site.Title }}">{{ .Title }}</a>
           <br>
           <small>&nbsp; &nbsp; {{ with .Params.episode }}{{ .passage}}{{ end }}</small>
-        {{ end }}
+        {{- end }}
       </li>
-      {{ with .NextInSection }}
+      {{ with .NextInSection -}}
         <li class="text-right">
           <strong>Next Sermon</strong><br>
           <a href="{{ .Permalink | relURL }}" title="{{ .Title }} | {{ $.Site.Title }}">{{ .Title }}</a>
           &raquo;<br>
           <small>{{ with .Params.episode }}{{ .passage }}{{ end }} &nbsp; &nbsp;</small>
         </li>
-      {{ end }}
+      {{- end -}}
     </ul>
   </nav>
-{{ end }}
+{{- end }}

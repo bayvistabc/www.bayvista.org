@@ -1,10 +1,10 @@
 {{ $u := .Site.BaseURL | relURL }}
 <nav class="navbar" role="navigation">
-  {{ if .IsHome }}
+  {{ if .IsHome -}}
     <span>&nbsp;</span>
-  {{ else }}
+  {{- else -}}
     <a class="home-link" href="{{ $u }}">{{ .Site.Title }}</a>
-  {{ end }}
+  {{- end }}
   <ul>
     <li class="dropdown">
       <a class="dropbtn" role="button">Ministries&nbsp; <i class="fa fa-caret-down"></i></a>

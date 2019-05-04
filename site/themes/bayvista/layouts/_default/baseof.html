@@ -5,20 +5,20 @@
     {{- partial "header.html" . -}}
     <div class="wrapper">
       <div class="page-content">
-        {{ if .IsHome }}
+        {{ if .IsHome -}}
           <div class="jumbotron text-center">
             <img src="{{ .Site.BaseURL | relURL }}img/bvbc-jumbotron.png"
                  alt="A large Bay Vista Baptist Church logo, with the words on either side of a lighthouse">
           </div>
-        {{ else }}
+        {{- else -}}
           <header>
-            {{ block "page-header" . }}
+            {{ block "page-header" . -}}
               <h2>{{ .Title }}</h2>
-              {{ with .Description }}{{ . }}{{ end }}
-              {{ with .Params.episode }}{{ with .passage }}{{ . }}{{ end }}{{ end }}
-            {{ end }}
+              {{ with .Description }}{{ . }}{{ end -}}
+              {{ with .Params.episode }}{{ with .passage }}{{ . }}{{ end }}{{ end -}}
+            {{- end }}
           </header>
-        {{ end }}
+        {{ end -}}
         <div class="inner-wrapper">
           <div class="main">
             <article>

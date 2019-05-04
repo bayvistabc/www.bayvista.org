@@ -5,8 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {{ hugo.Generator }}
   <title>{{ block "title" . }}{{ with .Params.Title }}{{ . }} | {{ end }}{{ .Site.Title }}{{ end }}</title>
-  <link rel="stylesheet" href="{{ relURL (.Site.BaseURL) }}css/style.css">
-  {{ if eq .Section "podcast" }}
-    <script src="{{ .Site.BaseURL | relURL }}js/play-count.js" async></script>
-  {{ end }}
+  <link rel="canonical" href="{{ .Permalink }}">
+  <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}">
+  {{ if eq .Section "podcast" -}}
+    <script src="{{ "/js/play-count.js" | relURL }}" async></script>
+  {{- end }}
 </head>

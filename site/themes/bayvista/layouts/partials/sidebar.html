@@ -1,21 +1,21 @@
-<!-- var latest = site.categories.find(function (cat) { return cat.name === 'Audio' }).data[0].posts.sort('date', -1).limit(1).toArray()[0] -->
 <aside class="sidebar">
   <div class="sidebar-entry">
     <h4 class="sidebar-heading">Worship With Us!</h4>
     <table>
-      {{ range .Site.Data.services }}
+      {{ range .Site.Data.services -}}
         <tr><th colspan="2">{{ .day }}</th></tr>
-        {{ range .services }}
+        {{- range .services }}
           <tr><td>{{ .name }}</td><td>{{ .time }}</td></tr>
-        {{ end }}
-      {{ end }}
+        {{- end }}
+      {{- end }}
     </table>
   </div>
   <div class="sidebar-entry">
     <h4 class="sidebar-heading">Our Latest Message</h4>
-    <p>coming soon...</p>
-    <!-- h3(style='margin-top:0;'): a(href=url_for(latest.path))= latest.title
-    p= latest.service_date -->
+    {{ range first 1 (where .Site.RegularPages "Type" "podcast") -}}
+      <h3 style="margin-top:0;"><a href="{{ .Permalink | relURL }}">{{ .Title }}</a></h3>
+      {{ with .Params.episode }}<p>{{ .service_date }}</p>{{ end }}
+    {{- end }}
     <div class="text-right"><a href="{{ .Site.BaseURL | relURL }}category/audio/">See All</a></div>
   </div>
 </aside>
