@@ -1,6 +1,6 @@
 ---
+slug: a-church-where-the-gospel-flows-regardless
 title: A Church Where the Gospel Flows...Regardless!
-author: Site Admin
 date: 2017-01-23 07:00:00
 categories:
 - Audio

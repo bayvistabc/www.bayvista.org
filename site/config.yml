@@ -7,7 +7,7 @@ taxonomies:
   category: categories
 permalinks:
   podcast: /:year/:month/:slug/
-  categories: /category/:title/
+  categories: /category/:slug/
 params:
   subtitle: Connecting People to God ~ Connecting People to One Another ~ Connecting People to Service
   email: office@bayvista.org

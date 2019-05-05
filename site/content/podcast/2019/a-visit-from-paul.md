@@ -1,6 +1,6 @@
 ---
+slug: a-visit-from-paul
 title: A Visit from Paul (Easter Dramatic Monologue)
-author: Site Admin
 date: 2019-04-22 07:00:00
 categories:
 - Audio

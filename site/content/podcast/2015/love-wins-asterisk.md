@@ -1,6 +1,6 @@
 ---
+slug: love-wins-asterisk
 title: Love Wins*
-author: Site Admin
 date: 2015-08-10 07:00:00
 categories:
 - Audio
