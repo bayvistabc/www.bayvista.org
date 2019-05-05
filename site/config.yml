@@ -11,3 +11,22 @@ permalinks:
 params:
   subtitle: Connecting People to God ~ Connecting People to One Another ~ Connecting People to Service
   email: office@bayvista.org
+  podcast_feed:
+    path: podcast.xml
+    title: Audio – Bay Vista Baptist Church
+    subtitle: Sermons from Bay Vista Baptist Church in Biloxi, Mississippi
+    image: img/bvbc-podcast-logo.png
+    non_feed_url: category/audio/
+    category: Audio
+    limit: 100
+    itunes:
+      summary: Join us each week as Bro. Danny Nance, Senior Pastor at Bay Vista Baptist Church in Biloxi, Mississippi, opens God's Word and helps us deepen our walk with the Lord. Bay Vista's vision is to connect people to God, to connect people to one another, and to connect people to service. You can learn more about Bay Vista at https://bayvista.org.
+      author: Audio – Bay Vista Baptist Church
+      owner: Audio – Bay Vista Baptist Church
+      email: daniel@djs-consulting.com
+      category: Religion & Spirituality
+      subcategory: Christianity
+      explicit: "no"
+      url: https://itunes.apple.com/us/podcast/bay-vista-baptist-church-audio/id863034196
+    media_base_url: http://pdcst.click/c/bay-vista/files.djs-consulting.com/sermons/
+    default_media_type: audio/mpeg

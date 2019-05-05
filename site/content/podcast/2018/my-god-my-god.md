@@ -1,6 +1,6 @@
 ---
+slug: my-god-my-god
 title: My God, My God....
-author: Site Admin
 date: 2018-04-02 07:00:00
 categories:
 - Audio
