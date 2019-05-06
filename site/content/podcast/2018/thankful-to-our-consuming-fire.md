@@ -1,6 +1,5 @@
 ---
 title: Thankful to Our Consuming Fire
-author: Site Admin
 date: 2018-11-05 07:00:00
 categories:
 - Audio

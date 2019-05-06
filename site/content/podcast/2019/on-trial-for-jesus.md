@@ -1,6 +1,5 @@
 ---
 title: On Trial for Jesus
-author: Site Admin
 date: 2019-04-29 07:00:00
 categories:
 - Audio

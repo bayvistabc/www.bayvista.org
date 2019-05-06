@@ -1,6 +1,5 @@
 ---
 title: Jesus and the Father's Purpose
-author: Site Admin
 date: 2015-12-28 07:00:00
 categories:
 - Audio

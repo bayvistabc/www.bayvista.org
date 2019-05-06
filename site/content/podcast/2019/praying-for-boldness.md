@@ -1,6 +1,5 @@
 ---
 title: Praying for Boldness
-author: Site Admin
 date: 2019-03-25 07:00:00
 categories:
 - Audio

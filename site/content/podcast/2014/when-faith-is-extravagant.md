@@ -1,6 +1,5 @@
 ---
 title: When Faith Is Extravagant
-author: Site Admin
 date: 2014-04-07 07:00:00
 categories:
 - Audio

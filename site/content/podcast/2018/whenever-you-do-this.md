@@ -1,6 +1,5 @@
 ---
 title: Whenever You Do This
-author: Site Admin
 date: 2018-08-06 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: It Is Good to Give Praise to the Lord!
-author: Site Admin
 date: 2018-07-30 07:00:00
 categories:
 - Audio

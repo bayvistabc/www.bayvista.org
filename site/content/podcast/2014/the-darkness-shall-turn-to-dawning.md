@@ -1,6 +1,5 @@
 ---
 title: The Darkness Shall Turn to Dawning
-author: Site Admin
 date: 2014-04-21 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: The Rapture of the Church
-author: Site Admin
 date: 2014-04-14 07:00:00
 categories:
 - Audio

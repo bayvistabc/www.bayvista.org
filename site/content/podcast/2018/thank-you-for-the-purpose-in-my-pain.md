@@ -1,6 +1,5 @@
 ---
 title: Thank You for the Purpose in My Pain
-author: Site Admin
 date: 2018-11-19 07:00:00
 categories:
 - Audio

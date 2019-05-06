@@ -1,6 +1,5 @@
 ---
 title: Looking at the Lord's Supper
-author: Site Admin
 date: 2017-05-22 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Whom Will We Obey?
-author: Site Admin
 date: 2019-04-08 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Life's Challenges
-author: Site Admin
 date: 2017-11-20 07:00:00
 categories:
 - Audio

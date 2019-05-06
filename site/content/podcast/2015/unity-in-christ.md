@@ -1,6 +1,5 @@
 ---
 title: Unity in Christ
-author: Site Admin
 date: 2015-08-03 07:00:00
 categories:
 - Audio

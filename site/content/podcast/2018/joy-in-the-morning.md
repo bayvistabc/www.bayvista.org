@@ -1,6 +1,5 @@
 ---
 title: Joy in the Morning
-author: Site Admin
 date: 2018-03-12 07:00:00
 categories:
 - Audio

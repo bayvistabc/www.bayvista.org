@@ -1,6 +1,5 @@
 ---
 title: The Place of Music in Our Worship
-author: Site Admin
 date: 2015-02-23 07:00:00
 categories:
 - Audio

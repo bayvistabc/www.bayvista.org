@@ -1,6 +1,5 @@
 ---
 title: A Meal to Remember
-author: Site Admin
 date: 2018-05-28 07:00:00
 categories:
 - Audio

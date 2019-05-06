@@ -1,6 +1,5 @@
 ---
 title: Always Be on Guard
-author: Site Admin
 date: 2016-10-24 07:00:00
 categories:
 - Audio

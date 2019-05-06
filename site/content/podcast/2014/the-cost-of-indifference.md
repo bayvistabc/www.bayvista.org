@@ -1,6 +1,5 @@
 ---
 title: The Cost of Indifference
-author: Site Admin
 date: 2014-03-24 07:00:00
 categories:
 - Audio

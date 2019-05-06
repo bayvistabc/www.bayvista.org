@@ -1,6 +1,5 @@
 ---
 title: The Promise of a Living Hope
-author: Site Admin
 date: 2016-01-25 07:00:00
 categories:
 - Audio

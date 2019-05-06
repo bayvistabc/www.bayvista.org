@@ -1,6 +1,5 @@
 ---
 title: Really Seeing
-author: Site Admin
 date: 2019-03-04 07:00:00
 categories:
 - Audio

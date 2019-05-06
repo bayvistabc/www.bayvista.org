@@ -1,6 +1,5 @@
 ---
 title: Lessons from Samuel
-author: Site Admin
 date: 2014-06-02 07:00:00
 categories:
 - Audio

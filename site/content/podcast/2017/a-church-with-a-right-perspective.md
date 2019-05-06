@@ -1,6 +1,5 @@
 ---
 title: A Church with a Right Perspective
-author: Site Admin
 date: 2017-05-15 07:00:00
 categories:
 - Audio

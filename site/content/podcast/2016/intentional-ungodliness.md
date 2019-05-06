@@ -1,6 +1,5 @@
 ---
 title: Intentional Ungodliness
-author: Site Admin
 date: 2016-09-26 07:00:00
 categories:
 - Audio

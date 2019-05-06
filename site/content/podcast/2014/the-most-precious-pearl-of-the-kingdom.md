@@ -1,6 +1,5 @@
 ---
 title: The Most Precious Pearl of the Kingdom
-author: Site Admin
 date: 2014-03-03 07:00:00
 categories:
 - Audio

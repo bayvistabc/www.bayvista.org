@@ -1,6 +1,5 @@
 ---
 title: A Higher Degree
-author: Site Admin
 date: 2017-09-25 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: The Sacrifice of Love
-author: Site Admin
 date: 2016-12-19 07:00:00
 categories:
 - Audio

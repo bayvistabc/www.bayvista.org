@@ -1,6 +1,5 @@
 ---
 title: Christ, Our Example
-author: Site Admin
 date: 2016-03-21 07:00:00
 categories:
 - Audio

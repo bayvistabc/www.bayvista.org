@@ -1,6 +1,5 @@
 ---
 title: May the Peoples Praise You
-author: Site Admin
 date: 2018-04-23 07:00:00
 categories:
 - Audio

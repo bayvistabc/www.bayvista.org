@@ -1,6 +1,5 @@
 ---
 title: "On Mission Celebration: Paul Barnard"
-author: Site Admin
 date: 2017-04-30 07:00:00
 categories:
 - Audio

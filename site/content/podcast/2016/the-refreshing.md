@@ -1,6 +1,5 @@
 ---
 title: The Refreshing
-author: Site Admin
 date: 2016-06-06 07:00:00
 categories:
 - Audio

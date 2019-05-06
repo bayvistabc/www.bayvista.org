@@ -1,6 +1,5 @@
 ---
 title: The Rock Stands Firm
-author: Site Admin
 date: 2019-02-18 07:00:00
 categories:
 - Audio

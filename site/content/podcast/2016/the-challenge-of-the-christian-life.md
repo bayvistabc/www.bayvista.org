@@ -1,6 +1,5 @@
 ---
 title: The Challenge of the Christian Life
-author: Site Admin
 date: 2016-02-08 07:00:00
 categories:
 - Audio

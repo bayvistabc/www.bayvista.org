@@ -1,6 +1,5 @@
 ---
 title: The Truly Blessed Life
-author: Site Admin
 date: 2014-06-16 07:00:00
 categories:
 - Audio

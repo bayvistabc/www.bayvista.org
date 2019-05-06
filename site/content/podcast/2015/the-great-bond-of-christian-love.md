@@ -1,6 +1,5 @@
 ---
 title: The Great Bond of Christian Love
-author: Site Admin
 date: 2015-07-20 07:00:00
 categories:
 - Audio

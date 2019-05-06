@@ -1,6 +1,5 @@
 ---
 title: An Eyewitness Account of the Risen Lord
-author: Site Admin
 date: 2017-04-17 07:00:00
 categories:
 - Audio

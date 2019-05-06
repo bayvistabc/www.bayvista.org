@@ -1,6 +1,5 @@
 ---
 title: I'm Forgiven
-author: Site Admin
 date: 2018-03-26 07:00:00
 categories:
 - Audio

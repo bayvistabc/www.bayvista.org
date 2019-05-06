@@ -1,6 +1,5 @@
 ---
 title: Encourage One Another
-author: Site Admin
 date: 2016-07-18 07:00:00
 categories:
 - Audio

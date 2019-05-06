@@ -1,6 +1,5 @@
 ---
 title: Suffering as a Saint
-author: Site Admin
 date: 2016-05-02 07:00:00
 categories:
 - Audio

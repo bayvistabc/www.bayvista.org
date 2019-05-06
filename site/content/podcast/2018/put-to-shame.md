@@ -1,6 +1,5 @@
 ---
 title: Put to Shame
-author: Site Admin
 date: 2018-04-30 07:00:00
 categories:
 - Audio

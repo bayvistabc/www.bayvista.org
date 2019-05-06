@@ -1,6 +1,5 @@
 ---
 title: Will You Hear Me Now?
-author: Site Admin
 date: 2017-07-03 07:00:00
 categories:
 - Audio

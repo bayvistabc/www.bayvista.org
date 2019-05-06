@@ -1,6 +1,5 @@
 ---
 title: He Began to Teach Them
-author: Site Admin
 date: 2014-06-09 07:00:00
 categories:
 - Audio

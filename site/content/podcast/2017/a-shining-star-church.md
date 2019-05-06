@@ -1,6 +1,5 @@
 ---
 title: A Shining Star Church
-author: Site Admin
 date: 2017-02-27 07:00:00
 categories:
 - Audio

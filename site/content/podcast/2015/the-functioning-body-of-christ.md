@@ -1,6 +1,5 @@
 ---
 title: The Functioning Body of Christ
-author: Site Admin
 date: 2015-07-27 07:00:00
 categories:
 - Audio

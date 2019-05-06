@@ -1,6 +1,5 @@
 ---
 title: Judgment Is Coming
-author: Site Admin
 date: 2016-05-09 07:00:00
 categories:
 - Audio

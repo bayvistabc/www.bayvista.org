@@ -1,6 +1,5 @@
 ---
 title: Bite Your Tongue
-author: Site Admin
 date: 2017-10-30 07:00:00
 categories:
 - Audio

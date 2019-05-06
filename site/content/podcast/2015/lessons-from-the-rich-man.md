@@ -1,6 +1,5 @@
 ---
 title: Lessons from the Rich Man
-author: Site Admin
 date: 2015-04-13 07:00:00
 categories:
 - Audio

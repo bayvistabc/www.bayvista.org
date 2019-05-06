@@ -1,6 +1,5 @@
 ---
 title: Growing Up
-author: Site Admin
 date: 2016-10-31 07:00:00
 categories:
 - Audio

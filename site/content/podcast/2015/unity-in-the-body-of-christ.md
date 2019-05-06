@@ -1,6 +1,5 @@
 ---
 title: Unity in the Body of Christ
-author: Site Admin
 date: 2015-07-13 07:00:00
 categories:
 - Audio

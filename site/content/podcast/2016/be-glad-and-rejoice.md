@@ -1,6 +1,5 @@
 ---
 title: Be Glad and Rejoice
-author: Site Admin
 date: 2016-12-12 07:00:00
 categories:
 - Audio

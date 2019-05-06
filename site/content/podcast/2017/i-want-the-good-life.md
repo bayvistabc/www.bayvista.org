@@ -1,6 +1,5 @@
 ---
 title: I Want the "Good Life"
-author: Site Admin
 date: 2017-06-12 07:00:00
 categories:
 - Audio

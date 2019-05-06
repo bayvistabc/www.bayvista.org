@@ -1,6 +1,5 @@
 ---
 title: An Advent Song of Love
-author: Site Admin
 date: 2017-12-25 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: "A Branch for David: Standing on the Promises"
-author: Site Admin
 date: 2018-12-03 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: The Need for Readiness
-author: Site Admin
 date: 2014-05-19 07:00:00
 categories:
 - Audio

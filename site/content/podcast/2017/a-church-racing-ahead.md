@@ -1,6 +1,5 @@
 ---
 title: A Church Racing Ahead
-author: Site Admin
 date: 2017-03-27 07:00:00
 categories:
 - Audio

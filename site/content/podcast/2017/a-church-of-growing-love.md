@@ -1,6 +1,5 @@
 ---
 title: A Church of Growing Love
-author: Site Admin
 date: 2017-01-16 07:00:00
 categories:
 - Audio

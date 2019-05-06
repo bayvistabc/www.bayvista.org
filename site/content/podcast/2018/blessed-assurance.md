@@ -1,6 +1,5 @@
 ---
 title: Blessed Assurance
-author: Site Admin
 date: 2018-10-29 07:00:00
 categories:
 - Audio

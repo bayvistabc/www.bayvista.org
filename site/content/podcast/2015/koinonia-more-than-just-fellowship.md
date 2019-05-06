@@ -1,6 +1,5 @@
 ---
 title: 'Koinonia: More Than "Just" Fellowship'
-author: Site Admin
 date: 2015-06-15 07:00:00
 categories:
 - Audio

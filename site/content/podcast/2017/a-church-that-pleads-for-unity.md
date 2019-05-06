@@ -1,6 +1,5 @@
 ---
 title: A Church that Pleads for Unity
-author: Site Admin
 date: 2017-04-10 07:00:00
 categories:
 - Audio

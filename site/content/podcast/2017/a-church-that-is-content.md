@@ -1,6 +1,5 @@
 ---
 title: A Church that Is Content
-author: Site Admin
 date: 2017-05-29 07:00:00
 categories:
 - Audio

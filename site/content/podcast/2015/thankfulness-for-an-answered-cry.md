@@ -1,6 +1,5 @@
 ---
 title: Thankfulness for an Answered Cry
-author: Site Admin
 date: 2015-11-02 07:00:00
 categories:
 - Audio

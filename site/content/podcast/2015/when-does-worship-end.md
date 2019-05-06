@@ -1,6 +1,5 @@
 ---
 title: When Does Worship End?
-author: Site Admin
 date: 2015-03-23 07:00:00
 categories:
 - Audio

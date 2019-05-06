@@ -1,6 +1,5 @@
 ---
 title: Be Good to One Another
-author: Site Admin
 date: 2016-06-27 07:00:00
 categories:
 - Audio

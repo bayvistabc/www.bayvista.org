@@ -1,6 +1,5 @@
 ---
 title: What a Good Deacon Brings to the Table
-author: Site Admin
 date: 2015-10-05 07:00:00
 categories:
 - Audio

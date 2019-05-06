@@ -1,6 +1,5 @@
 ---
 title: What's All the Fighting About?
-author: Site Admin
 date: 2017-11-06 07:00:00
 categories:
 - Audio

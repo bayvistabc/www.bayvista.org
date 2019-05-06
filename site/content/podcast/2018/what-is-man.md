@@ -1,6 +1,5 @@
 ---
 title: What Is Man?
-author: Site Admin
 date: 2018-01-22 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: A Church that Celebrates Heroes
-author: Site Admin
 date: 2017-03-06 07:00:00
 categories:
 - Audio

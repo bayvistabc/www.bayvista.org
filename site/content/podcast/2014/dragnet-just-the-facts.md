@@ -1,6 +1,5 @@
 ---
 title: "Dragnet: Just the Facts"
-author: Site Admin
 date: 2014-04-28 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: A Call to Worship the Lord
-author: Site Admin
 date: 2015-01-26 07:00:00
 categories:
 - Audio

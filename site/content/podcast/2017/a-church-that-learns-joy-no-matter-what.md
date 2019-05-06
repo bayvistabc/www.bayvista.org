@@ -1,6 +1,5 @@
 ---
 title: A Church That Learns Joy no Matter What
-author: Site Admin
 date: 2017-01-30 07:00:00
 categories:
 - Audio

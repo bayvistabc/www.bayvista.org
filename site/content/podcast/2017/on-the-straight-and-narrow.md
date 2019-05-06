@@ -1,6 +1,5 @@
 ---
 title: On the Straight and Narrow
-author: Site Admin
 date: 2017-07-17 07:00:00
 categories:
 - Audio

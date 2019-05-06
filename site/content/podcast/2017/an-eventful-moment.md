@@ -1,6 +1,5 @@
 ---
 title: An Eventful Moment
-author: Site Admin
 date: 2017-10-02 07:00:00
 categories:
 - Audio

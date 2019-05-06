@@ -1,6 +1,5 @@
 ---
 title: Pray for One Another
-author: Site Admin
 date: 2016-08-01 07:00:00
 categories:
 - Audio

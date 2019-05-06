@@ -1,6 +1,5 @@
 ---
 title: Dedicated
-author: Site Admin
 date: 2019-02-04 07:00:00
 categories:
 - Audio

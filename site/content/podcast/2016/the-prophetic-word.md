@@ -1,6 +1,5 @@
 ---
 title: The Prophetic Word
-author: Site Admin
 date: 2016-09-05 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: The Road Less Traveled
-author: Site Admin
 date: 2014-10-06 07:00:00
 categories:
 - Audio

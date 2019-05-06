@@ -1,6 +1,5 @@
 ---
 title: Meant to Make a Difference
-author: Site Admin
 date: 2014-07-07 07:00:00
 categories:
 - Audio

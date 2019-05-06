@@ -1,6 +1,5 @@
 ---
 title: A True Friend
-author: Site Admin
 date: 2015-06-22 07:00:00
 categories:
 - Audio

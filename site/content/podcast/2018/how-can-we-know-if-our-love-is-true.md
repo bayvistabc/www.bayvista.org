@@ -1,6 +1,5 @@
 ---
 title: How Can We Know if Our Love Is True?
-author: Site Admin
 date: 2018-10-15 07:00:00
 categories:
 - Audio

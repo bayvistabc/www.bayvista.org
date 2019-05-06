@@ -1,6 +1,5 @@
 ---
 title: The Place of Prayer in Worship
-author: Site Admin
 date: 2015-03-02 07:00:00
 categories:
 - Audio

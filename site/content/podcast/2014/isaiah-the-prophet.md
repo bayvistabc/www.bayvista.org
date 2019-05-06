@@ -1,6 +1,5 @@
 ---
 title: Isaiah the Prophet
-author: Site Admin
 date: 2014-12-01 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Joseph
-author: Site Admin
 date: 2014-12-22 07:00:00
 categories:
 - Audio

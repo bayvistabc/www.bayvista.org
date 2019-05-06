@@ -1,6 +1,5 @@
 ---
 title: The Shepherd of Our Souls
-author: Site Admin
 date: 2018-02-19 07:00:00
 categories:
 - Audio

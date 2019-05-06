@@ -1,6 +1,5 @@
 ---
 title: Love One Another
-author: Site Admin
 date: 2016-06-20 07:00:00
 categories:
 - Audio

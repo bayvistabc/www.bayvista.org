@@ -1,6 +1,5 @@
 ---
 title: Have Mercy on Me
-author: Site Admin
 date: 2018-03-19 07:00:00
 categories:
 - Audio

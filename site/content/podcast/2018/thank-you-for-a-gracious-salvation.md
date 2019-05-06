@@ -1,6 +1,5 @@
 ---
 title: Thank You for a Gracious Salvation
-author: Site Admin
 date: 2018-11-26 07:00:00
 categories:
 - Audio

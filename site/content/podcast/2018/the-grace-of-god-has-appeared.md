@@ -1,6 +1,5 @@
 ---
 title: The Grace of God Has Appeared
-author: Site Admin
 date: 2018-12-31 07:00:00
 categories:
 - Audio

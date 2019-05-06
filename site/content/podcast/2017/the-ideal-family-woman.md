@@ -1,6 +1,5 @@
 ---
 title: The Ideal Family Woman
-author: Site Admin
 date: 2017-08-21 07:00:00
 categories:
 - Audio

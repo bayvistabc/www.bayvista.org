@@ -1,6 +1,5 @@
 ---
 title: Following the Shepherds
-author: Site Admin
 date: 2016-05-23 07:00:00
 categories:
 - Audio

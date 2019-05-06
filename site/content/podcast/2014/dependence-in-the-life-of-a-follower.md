@@ -1,6 +1,5 @@
 ---
 title: Dependence in the Life of a Follower
-author: Site Admin
 date: 2014-05-26 07:00:00
 categories:
 - Audio

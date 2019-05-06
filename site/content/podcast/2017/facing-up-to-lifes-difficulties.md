@@ -1,6 +1,5 @@
 ---
 title: Facing Up to Life's Difficulties
-author: Site Admin
 date: 2017-09-04 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Hope in Salvation
-author: Site Admin
 date: 2015-12-07 07:00:00
 categories:
 - Audio

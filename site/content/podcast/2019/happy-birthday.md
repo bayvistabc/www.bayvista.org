@@ -1,6 +1,5 @@
 ---
 title: Happy Birthday!
-author: Site Admin
 date: 2019-02-11 07:00:00
 categories:
 - Audio

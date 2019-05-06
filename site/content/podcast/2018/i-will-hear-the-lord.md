@@ -1,6 +1,5 @@
 ---
 title: I Will Hear the Lord
-author: Site Admin
 date: 2018-07-23 07:00:00
 categories:
 - Audio

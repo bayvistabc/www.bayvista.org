@@ -1,6 +1,5 @@
 ---
 title: The Impossible Possibility
-author: Site Admin
 date: 2014-10-27 07:00:00
 categories:
 - Audio

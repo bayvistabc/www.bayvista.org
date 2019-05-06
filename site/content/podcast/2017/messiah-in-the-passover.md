@@ -1,6 +1,5 @@
 ---
 title: Messiah in the Passover
-author: Site Admin
 date: 2017-04-24 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Worship in the Time of Struggle
-author: Site Admin
 date: 2015-02-16 07:00:00
 categories:
 - Audio

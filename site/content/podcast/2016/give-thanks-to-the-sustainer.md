@@ -1,6 +1,5 @@
 ---
 title: Give Thanks to the Sustainer
-author: Site Admin
 date: 2016-11-21 07:00:00
 categories:
 - Audio

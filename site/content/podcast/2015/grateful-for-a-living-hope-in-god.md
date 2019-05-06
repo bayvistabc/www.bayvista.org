@@ -1,6 +1,5 @@
 ---
 title: Grateful for a Living Hope in God
-author: Site Admin
 date: 2015-11-23 07:00:00
 categories:
 - Audio

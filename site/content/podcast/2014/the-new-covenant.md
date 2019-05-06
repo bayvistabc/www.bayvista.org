@@ -1,6 +1,5 @@
 ---
 title: The New Covenant
-author: Site Admin
 date: 2014-07-28 07:00:00
 categories:
 - Audio

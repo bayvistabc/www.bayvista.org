@@ -1,6 +1,5 @@
 ---
 title: Thankful to Christ
-author: Site Admin
 date: 2014-11-24 07:00:00
 categories:
 - Audio

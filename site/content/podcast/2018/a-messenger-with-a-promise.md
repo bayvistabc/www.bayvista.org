@@ -1,6 +1,5 @@
 ---
 title: A Messenger with a Promise
-author: Site Admin
 date: 2018-12-10 07:00:00
 categories:
 - Audio

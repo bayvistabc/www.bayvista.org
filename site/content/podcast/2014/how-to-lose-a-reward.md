@@ -1,6 +1,5 @@
 ---
 title: How to Lose a Reward
-author: Site Admin
 date: 2014-08-25 07:00:00
 categories:
 - Audio

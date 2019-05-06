@@ -1,6 +1,5 @@
 ---
 title: How Should We Live?
-author: Site Admin
 date: 2017-11-27 07:00:00
 categories:
 - Audio

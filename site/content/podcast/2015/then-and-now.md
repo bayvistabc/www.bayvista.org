@@ -1,6 +1,5 @@
 ---
 title: Then and Now
-author: Site Admin
 date: 2015-07-06 07:00:00
 categories:
 - Audio

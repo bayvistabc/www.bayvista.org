@@ -1,6 +1,5 @@
 ---
 title: The Place of the Offertory in Worship
-author: Site Admin
 date: 2015-03-16 07:00:00
 categories:
 - Audio

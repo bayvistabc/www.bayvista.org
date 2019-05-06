@@ -1,6 +1,5 @@
 ---
 title: Truly Committed
-author: Site Admin
 date: 2017-11-13 07:00:00
 categories:
 - Audio

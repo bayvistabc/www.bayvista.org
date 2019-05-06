@@ -1,6 +1,5 @@
 ---
 title: Remember Who We Are
-author: Site Admin
 date: 2016-02-15 07:00:00
 categories:
 - Audio

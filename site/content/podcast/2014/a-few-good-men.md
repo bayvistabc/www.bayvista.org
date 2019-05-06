@@ -1,6 +1,5 @@
 ---
 title: A Few Good Men
-author: Site Admin
 date: 2014-09-29 07:00:00
 categories:
 - Audio

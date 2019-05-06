@@ -1,6 +1,5 @@
 ---
 title: "On Mission Celebration: Mary Callahan"
-author: Site Admin
 date: 2017-04-27 07:00:00
 categories:
 - Audio

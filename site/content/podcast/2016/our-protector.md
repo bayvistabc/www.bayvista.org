@@ -1,6 +1,5 @@
 ---
 title: Our Protector
-author: Site Admin
 date: 2016-09-19 07:00:00
 categories:
 - Audio

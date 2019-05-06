@@ -1,6 +1,5 @@
 ---
 title: Under the Shadow of God's Wings
-author: Site Admin
 date: 2018-07-02 07:00:00
 categories:
 - Audio

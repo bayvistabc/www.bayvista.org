@@ -1,6 +1,5 @@
 ---
 title: The Roaring Lion
-author: Site Admin
 date: 2016-05-30 07:00:00
 categories:
 - Audio

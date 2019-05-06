@@ -1,6 +1,5 @@
 ---
 title: A Church Forewarned
-author: Site Admin
 date: 2017-03-13 07:00:00
 categories:
 - Audio

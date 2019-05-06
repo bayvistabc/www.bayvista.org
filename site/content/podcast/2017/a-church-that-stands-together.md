@@ -1,6 +1,5 @@
 ---
 title: A Church That Stands Together
-author: Site Admin
 date: 2017-02-06 07:00:00
 categories:
 - Audio

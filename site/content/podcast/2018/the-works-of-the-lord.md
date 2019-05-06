@@ -1,6 +1,5 @@
 ---
 title: The Works of the Lord
-author: Site Admin
 date: 2018-08-13 07:00:00
 categories:
 - Audio

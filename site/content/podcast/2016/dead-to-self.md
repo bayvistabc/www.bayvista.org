@@ -1,6 +1,5 @@
 ---
 title: Dead to Self
-author: Site Admin
 date: 2016-04-18 07:00:00
 categories:
 - Audio

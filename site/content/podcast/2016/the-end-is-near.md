@@ -1,6 +1,5 @@
 ---
 title: The End Is Near
-author: Site Admin
 date: 2016-04-25 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: The Warfare That Leads to Witness
-author: Site Admin
 date: 2016-02-22 07:00:00
 categories:
 - Audio

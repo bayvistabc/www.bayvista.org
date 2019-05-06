@@ -1,7 +1,5 @@
 ---
-layout: podcast
 title: Some Bad Advice, Some Good Advice
-author: Site Admin
 date: 2019-04-15 07:00:00
 categories:
 - Audio

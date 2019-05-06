@@ -1,6 +1,5 @@
 ---
 title: The Promise of the Coming Messiah
-author: Site Admin
 date: 2015-12-14 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Give Thanks to the Redeemer
-author: Site Admin
 date: 2016-11-14 07:00:00
 categories:
 - Audio

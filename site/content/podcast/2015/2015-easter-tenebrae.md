@@ -1,6 +1,5 @@
 ---
 title: 2015 Easter Tenebrae
-author: Site Admin
 date: 2015-04-06 07:00:00
 categories:
 - Audio

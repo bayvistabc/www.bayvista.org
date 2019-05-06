@@ -1,6 +1,5 @@
 ---
 title: Two Women and Their Invitations
-author: Site Admin
 date: 2017-07-31 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Serving in the Time of Hurt
-author: Site Admin
 date: 2015-09-14 07:00:00
 categories:
 - Audio

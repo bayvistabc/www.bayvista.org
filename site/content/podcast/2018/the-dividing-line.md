@@ -1,6 +1,5 @@
 ---
 title: The Dividing Line
-author: Site Admin
 date: 2018-01-15 07:00:00
 categories:
 - Audio

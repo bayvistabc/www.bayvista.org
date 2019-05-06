@@ -1,6 +1,5 @@
 ---
 title: Give Thanks to the Lord
-author: Site Admin
 date: 2014-11-17 07:00:00
 categories:
 - Audio

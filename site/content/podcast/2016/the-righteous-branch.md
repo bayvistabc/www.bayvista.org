@@ -1,6 +1,5 @@
 ---
 title: The Righteous Branch
-author: Site Admin
 date: 2016-11-28 07:00:00
 categories:
 - Audio

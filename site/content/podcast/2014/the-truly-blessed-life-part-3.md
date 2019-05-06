@@ -1,6 +1,5 @@
 ---
 title: The Truly Blessed Life (Part 3)
-author: Site Admin
 date: 2014-06-30 07:00:00
 categories:
 - Audio

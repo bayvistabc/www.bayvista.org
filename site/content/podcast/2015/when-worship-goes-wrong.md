@@ -1,6 +1,5 @@
 ---
 title: When Worship Goes Wrong
-author: Site Admin
 date: 2015-02-02 07:00:00
 categories:
 - Audio

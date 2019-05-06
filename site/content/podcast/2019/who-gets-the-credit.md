@@ -1,6 +1,5 @@
 ---
 title: Who Gets the Credit?
-author: Site Admin
 date: 2019-03-11 07:00:00
 categories:
 - Audio

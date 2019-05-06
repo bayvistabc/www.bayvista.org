@@ -1,6 +1,5 @@
 ---
 title: An Ode to Joy in Two Stanzas
-author: Site Admin
 date: 2017-12-18 07:00:00
 categories:
 - Audio

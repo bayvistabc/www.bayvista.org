@@ -1,6 +1,5 @@
 ---
 title: No Good Deed Goes Unpunished
-author: Site Admin
 date: 2019-03-18 07:00:00
 categories:
 - Audio

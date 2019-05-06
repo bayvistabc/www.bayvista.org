@@ -1,6 +1,5 @@
 ---
 title: A Gracious Father
-author: Site Admin
 date: 2014-01-20 07:00:00
 categories:
 - Audio

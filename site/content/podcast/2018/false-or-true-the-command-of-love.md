@@ -1,6 +1,5 @@
 ---
 title: False or True? The Command of Love
-author: Site Admin
 date: 2018-09-24 07:00:00
 categories:
 - Audio

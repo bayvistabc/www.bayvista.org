@@ -1,6 +1,5 @@
 ---
 title: He IS Coming Back!
-author: Site Admin
 date: 2016-10-10 07:00:00
 categories:
 - Audio

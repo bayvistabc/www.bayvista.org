@@ -1,6 +1,5 @@
 ---
 title: The Children of God!
-author: Site Admin
 date: 2018-10-01 07:00:00
 categories:
 - Audio

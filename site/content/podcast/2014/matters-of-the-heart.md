@@ -1,6 +1,5 @@
 ---
 title: Matters of the Heart
-author: Site Admin
 date: 2014-08-04 07:00:00
 categories:
 - Audio

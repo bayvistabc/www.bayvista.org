@@ -1,6 +1,5 @@
 ---
 title: Just What Is a Deacon?
-author: Site Admin
 date: 2017-06-26 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Magnify the Lord with Me
-author: Site Admin
 date: 2018-08-20 07:00:00
 categories:
 - Audio

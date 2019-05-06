@@ -1,6 +1,5 @@
 ---
 title: Beyond Getting Even
-author: Site Admin
 date: 2014-08-18 07:00:00
 categories:
 - Audio

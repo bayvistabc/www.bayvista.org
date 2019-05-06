@@ -1,6 +1,5 @@
 ---
 title: Are We Ready to Be Sent?
-author: Site Admin
 date: 2015-09-07 07:00:00
 categories:
 - Audio

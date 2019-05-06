@@ -1,6 +1,5 @@
 ---
 title: God Is Speaking!
-author: Site Admin
 date: 2018-02-05 07:00:00
 categories:
 - Audio

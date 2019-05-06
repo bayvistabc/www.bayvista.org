@@ -1,6 +1,5 @@
 ---
 title: Wisdom Is Calling
-author: Site Admin
 date: 2017-06-19 07:00:00
 categories:
 - Audio

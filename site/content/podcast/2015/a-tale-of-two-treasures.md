@@ -1,6 +1,5 @@
 ---
 title: A Tale of Two Treasures
-author: Site Admin
 date: 2015-01-05 07:00:00
 categories:
 - Audio

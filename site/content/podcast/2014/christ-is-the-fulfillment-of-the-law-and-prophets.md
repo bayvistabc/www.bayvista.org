@@ -1,6 +1,5 @@
 ---
 title: Christ Is the Fulfillment of the Law and Prophets
-author: Site Admin
 date: 2014-07-14 07:00:00
 categories:
 - Audio

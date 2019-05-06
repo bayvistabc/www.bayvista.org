@@ -1,6 +1,5 @@
 ---
 title: Forget; Forward - Focus!
-author: Site Admin
 date: 2017-01-02 07:00:00
 categories:
 - Audio

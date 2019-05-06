@@ -1,6 +1,5 @@
 ---
 title: A Prayer for Help Based on God's Love
-author: Site Admin
 date: 2015-11-09 07:00:00
 categories:
 - Audio

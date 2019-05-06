@@ -1,6 +1,5 @@
 ---
 title: A Church's Chief Example
-author: Site Admin
 date: 2017-02-20 07:00:00
 categories:
 - Audio

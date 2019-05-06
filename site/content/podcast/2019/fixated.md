@@ -1,6 +1,5 @@
 ---
 title: Fixated
-author: Site Admin
 date: 2019-01-28 07:00:00
 categories:
 - Audio

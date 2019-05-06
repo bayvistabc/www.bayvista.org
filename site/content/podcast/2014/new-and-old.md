@@ -1,6 +1,5 @@
 ---
 title: New and Old
-author: Site Admin
 date: 2014-02-10 07:00:00
 categories:
 - Audio

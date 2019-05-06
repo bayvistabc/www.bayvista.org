@@ -1,6 +1,5 @@
 ---
 title: A Place to Belong
-author: Site Admin
 date: 2015-06-08 07:00:00
 categories:
 - Audio

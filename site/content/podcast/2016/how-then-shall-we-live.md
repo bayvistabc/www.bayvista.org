@@ -1,6 +1,5 @@
 ---
 title: How, Then, Shall We Live?
-author: Site Admin
 date: 2016-10-17 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: False Prophets and Teachers
-author: Site Admin
 date: 2016-09-12 07:00:00
 categories:
 - Audio

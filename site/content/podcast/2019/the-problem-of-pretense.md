@@ -1,6 +1,5 @@
 ---
 title: The Problem of Pretense
-author: Site Admin
 date: 2019-04-01 07:00:00
 categories:
 - Audio

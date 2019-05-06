@@ -1,6 +1,5 @@
 ---
 title: Come Home, Come Home, It's Suppertime!
-author: Site Admin
 date: 2019-01-14 07:00:00
 categories:
 - Audio

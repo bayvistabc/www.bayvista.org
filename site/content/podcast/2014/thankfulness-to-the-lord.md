@@ -1,6 +1,5 @@
 ---
 title: Thankfulness to the Lord
-author: Site Admin
 date: 2014-11-10 07:00:00
 categories:
 - Audio

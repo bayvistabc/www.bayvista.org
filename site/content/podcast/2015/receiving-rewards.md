@@ -1,6 +1,5 @@
 ---
 title: Receiving Rewards
-author: Site Admin
 date: 2015-10-26 07:00:00
 categories:
 - Audio

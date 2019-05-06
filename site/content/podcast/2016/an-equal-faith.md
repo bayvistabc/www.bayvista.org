@@ -1,6 +1,5 @@
 ---
 title: An Equal Faith
-author: Site Admin
 date: 2016-08-08 07:00:00
 categories:
 - Audio

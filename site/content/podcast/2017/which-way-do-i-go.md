@@ -1,6 +1,5 @@
 ---
 title: Which Way Do I Go?
-author: Site Admin
 date: 2017-07-10 07:00:00
 categories:
 - Audio

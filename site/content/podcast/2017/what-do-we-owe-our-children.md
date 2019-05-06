@@ -1,6 +1,5 @@
 ---
 title: What Do We Owe Our Children?
-author: Site Admin
 date: 2017-08-28 07:00:00
 categories:
 - Audio

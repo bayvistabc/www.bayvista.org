@@ -1,6 +1,5 @@
 ---
 title: The Faith that Saves
-author: Site Admin
 date: 2017-10-23 07:00:00
 categories:
 - Audio

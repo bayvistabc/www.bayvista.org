@@ -1,6 +1,5 @@
 ---
 title: A Church that Refuses to Be Led Astray
-author: Site Admin
 date: 2017-04-03 07:00:00
 categories:
 - Audio

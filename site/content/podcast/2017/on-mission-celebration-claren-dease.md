@@ -1,6 +1,5 @@
 ---
 title: "On Mission Celebration: Claren Dease"
-author: Site Admin
 date: 2017-04-29 07:00:00
 categories:
 - Audio

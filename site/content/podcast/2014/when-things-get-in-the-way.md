@@ -1,6 +1,5 @@
 ---
 title: When Things Get in the Way
-author: Site Admin
 date: 2014-03-17 07:00:00
 categories:
 - Audio

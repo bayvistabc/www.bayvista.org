@@ -1,6 +1,5 @@
 ---
 title: A New Life for a New Year
-author: Site Admin
 date: 2015-01-19 07:00:00
 categories:
 - Audio

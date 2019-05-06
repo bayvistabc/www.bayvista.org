@@ -1,6 +1,5 @@
 ---
 title: The Promise of Answered Prayer
-author: Site Admin
 date: 2014-09-22 07:00:00
 categories:
 - Audio

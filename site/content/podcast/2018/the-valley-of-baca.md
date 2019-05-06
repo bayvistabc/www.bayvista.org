@@ -1,6 +1,5 @@
 ---
 title: The Valley of Baca
-author: Site Admin
 date: 2018-08-27 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: A Church that Walks in the Peace of God
-author: Site Admin
 date: 2017-05-08 07:00:00
 categories:
 - Audio

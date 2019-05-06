@@ -1,6 +1,5 @@
 ---
 title: Two Approaches to Telling Others about the Lord
-author: Site Admin
 date: 2015-03-30 07:00:00
 categories:
 - Audio

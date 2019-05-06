@@ -1,6 +1,5 @@
 ---
 title: The Voice of the Lord
-author: Site Admin
 date: 2018-06-04 07:00:00
 categories:
 - Audio

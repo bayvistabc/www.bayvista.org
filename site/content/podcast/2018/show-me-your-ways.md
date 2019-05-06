@@ -1,6 +1,5 @@
 ---
 title: Show Me Your Ways
-author: Site Admin
 date: 2018-02-26 07:00:00
 categories:
 - Audio

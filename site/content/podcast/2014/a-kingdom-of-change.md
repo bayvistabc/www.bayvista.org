@@ -1,6 +1,5 @@
 ---
 title: A Kingdom of Change
-author: Site Admin
 date: 2014-02-24 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Harmony
-author: Site Admin
 date: 2016-03-14 07:00:00
 categories:
 - Audio

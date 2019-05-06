@@ -1,6 +1,5 @@
 ---
 title: A Confirmed Calling
-author: Site Admin
 date: 2016-08-29 07:00:00
 categories:
 - Audio

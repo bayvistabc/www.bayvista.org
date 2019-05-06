@@ -1,6 +1,5 @@
 ---
 title: Prophet Song
-author: Site Admin
 date: 2014-12-15 07:00:00
 categories:
 - Audio

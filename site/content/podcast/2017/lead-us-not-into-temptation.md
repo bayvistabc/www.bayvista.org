@@ -1,6 +1,5 @@
 ---
 title: Lead Us Not into Temptation
-author: Site Admin
 date: 2017-09-11 07:00:00
 categories:
 - Audio

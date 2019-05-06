@@ -1,6 +1,5 @@
 ---
 title: Counting the Cost of Discipleship
-author: Site Admin
 date: 2014-03-10 07:00:00
 categories:
 - Audio

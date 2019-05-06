@@ -1,6 +1,5 @@
 ---
 title: We Are NOT Alone!
-author: Site Admin
 date: 2016-06-13 07:00:00
 categories:
 - Audio

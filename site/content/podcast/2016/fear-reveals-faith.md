@@ -1,6 +1,5 @@
 ---
 title: Fear Reveals Faith
-author: Site Admin
 date: 2016-01-04 07:00:00
 categories:
 - Audio

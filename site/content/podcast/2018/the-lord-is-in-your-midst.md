@@ -1,6 +1,5 @@
 ---
 title: The Lord Is in Your Midst
-author: Site Admin
 date: 2018-12-17 07:00:00
 categories:
 - Audio

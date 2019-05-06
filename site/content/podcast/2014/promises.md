@@ -1,6 +1,5 @@
 ---
 title: Promises
-author: Site Admin
 date: 2014-08-11 07:00:00
 categories:
 - Audio

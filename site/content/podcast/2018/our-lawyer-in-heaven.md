@@ -1,6 +1,5 @@
 ---
 title: Our Lawyer in Heaven
-author: Site Admin
 date: 2018-09-17 07:00:00
 categories:
 - Audio

@@ -1,6 +1,5 @@
 ---
 title: Living in the Light of Christ's Return
-author: Site Admin
 date: 2015-10-12 07:00:00
 categories:
 - Audio

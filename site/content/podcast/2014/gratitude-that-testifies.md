@@ -1,6 +1,5 @@
 ---
 title: Gratitude that Testifies
-author: Site Admin
 date: 2014-11-03 07:00:00
 categories:
 - Audio

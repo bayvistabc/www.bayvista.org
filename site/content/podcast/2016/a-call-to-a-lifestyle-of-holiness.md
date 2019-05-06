@@ -1,6 +1,5 @@
 ---
 title: A Call to a Lifestyle of Holiness
-author: Site Admin
 date: 2016-02-01 07:00:00
 categories:
 - Audio

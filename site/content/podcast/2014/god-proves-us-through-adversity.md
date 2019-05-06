@@ -1,6 +1,5 @@
 ---
 title: God Proves Us Through Adversity
-author: Site Admin
 date: 2014-10-13 07:00:00
 categories:
 - Audio

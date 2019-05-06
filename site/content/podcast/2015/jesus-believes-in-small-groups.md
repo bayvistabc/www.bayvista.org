@@ -1,6 +1,5 @@
 ---
 title: Jesus Believes in Small Groups
-author: Site Admin
 date: 2015-08-24 07:00:00
 categories:
 - Audio

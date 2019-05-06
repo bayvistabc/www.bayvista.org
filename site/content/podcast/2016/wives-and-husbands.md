@@ -1,6 +1,5 @@
 ---
 title: Wives and Husbands
-author: Site Admin
 date: 2016-03-07 07:00:00
 categories:
 - Audio

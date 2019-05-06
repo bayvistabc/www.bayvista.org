@@ -1,6 +1,5 @@
 ---
 title: The End Begins
-author: Site Admin
 date: 2018-01-01 07:00:00
 categories:
 - Audio

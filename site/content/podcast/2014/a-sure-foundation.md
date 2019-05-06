@@ -1,6 +1,5 @@
 ---
 title: A Sure Foundation
-author: Site Admin
 date: 2014-05-12 07:00:00
 categories:
 - Audio

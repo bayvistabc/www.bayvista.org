@@ -1,6 +1,5 @@
 ---
 title: Chariots and Horses
-author: Site Admin
 date: 2018-02-12 07:00:00
 categories:
 - Audio

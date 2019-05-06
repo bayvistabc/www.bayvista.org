@@ -1,6 +1,5 @@
 ---
 title: The One Who Prepares
-author: Site Admin
 date: 2016-12-05 07:00:00
 categories:
 - Audio

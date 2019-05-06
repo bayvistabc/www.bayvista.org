@@ -1,6 +1,5 @@
 ---
 title: The Danger of Judging
-author: Site Admin
 date: 2014-09-15 07:00:00
 categories:
 - Audio

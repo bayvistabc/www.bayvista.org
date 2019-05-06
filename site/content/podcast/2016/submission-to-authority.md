@@ -1,6 +1,5 @@
 ---
 title: Submission to Authority
-author: Site Admin
 date: 2016-02-29 07:00:00
 categories:
 - Audio

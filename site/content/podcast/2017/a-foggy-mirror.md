@@ -1,6 +1,5 @@
 ---
 title: A Foggy Mirror
-author: Site Admin
 date: 2017-09-18 07:00:00
 categories:
 - Audio
