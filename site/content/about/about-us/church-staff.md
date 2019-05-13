@@ -13,10 +13,10 @@ url: /about-us/church-staff/
     </tr>
     <tr>
       <td class="text-center" style="vertical-align:top;">
-        <strong>Danny Nance</strong><br>
+        <strong><a href="mailto:pastor@bayvista.org?Subject=Message from Website">Danny Nance</a></strong><br>
         <em>Senior Pastor</em></td>
       <td class="text-center" style="vertical-align:top;">
-        <strong>Daniel Summers</strong><br>
+        <strong><a href="mailto:music@bayvista.org?Subject=Message from Website">Daniel Summers</a></strong><br>
         <a title="Worship" href="/ministries/worship/"><em>Minister of Music</em></a>
       </td>
       <td class="text-center" style="vertical-align:top;">
