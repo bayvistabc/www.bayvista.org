@@ -8,8 +8,8 @@ pool:
 steps:
 - task: HugoTask@1
   inputs:
-    source: '/site'
-    destination: '/site/public'
+    source: '$(System.DefaultWorkingDirectory)/site'
+    destination: '$(System.DefaultWorkingDirectory)/site/public'
 
 - task: AzureRmWebAppDeployment@4
   inputs:
