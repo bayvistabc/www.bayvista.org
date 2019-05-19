@@ -18,3 +18,12 @@ steps:
     appType: 'webApp'
     WebAppName: 'bayvista'
     packageForLinux: '$(System.DefaultWorkingDirectory)/site/public'
+
+- task: PurgeAzureCDNEndpoint@2
+  inputs:
+    ConnectedServiceNameSelector: 'ConnectedServiceNameARM'
+    ConnectedServiceNameARM: 'Bit Badger Solutions(8d63f62c-4de2-4682-af66-5b44e7973fd6)'
+    ResourceGroupName: 'BayVista'
+    EndpointName: 'bayvista.azureedge.net'
+    ProfileName: 'bayvista-cdn'
+    PurgeContent: '/*'
