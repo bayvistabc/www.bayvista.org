@@ -7,11 +7,13 @@ pool:
 
 steps:
 - task: HugoTask@1
+  displayName: Generate Site Via Hugo
   inputs:
     source: '$(System.DefaultWorkingDirectory)/site'
     destination: '$(System.DefaultWorkingDirectory)/site/public'
 
 - task: AzureRmWebAppDeployment@4
+  displayName: Depoly New Files to Azure App Service
   inputs:
     ConnectionType: 'AzureRM'
     azureSubscription: 'Bit Badger Solutions(8d63f62c-4de2-4682-af66-5b44e7973fd6)'
@@ -20,6 +22,7 @@ steps:
     packageForLinux: '$(System.DefaultWorkingDirectory)/site/public'
 
 - task: PurgeAzureCDNEndpoint@2
+  displayName: Purge CDN Endpoint
   inputs:
     ConnectedServiceNameSelector: 'ConnectedServiceNameARM'
     ConnectedServiceNameARM: 'Bit Badger Solutions(8d63f62c-4de2-4682-af66-5b44e7973fd6)'
