@@ -1,0 +1,11 @@
+{{ define "title" }}
+  {{ if .IsHome }}
+    {{ .Site.Title }} &raquo; {{ .Site.Params.subtitle }}
+  {{ else }}
+    {{ .Title }} | {{ .Site.Title }}
+  {{ end }}
+{{ end }}
+
+{{ define "main" }}
+  {{ .Content }}
+{{ end }}
