@@ -24,6 +24,6 @@ steps:
     ConnectedServiceNameSelector: 'ConnectedServiceNameARM'
     ConnectedServiceNameARM: 'Bit Badger Solutions(8d63f62c-4de2-4682-af66-5b44e7973fd6)'
     ResourceGroupName: 'BayVista'
-    EndpointName: 'bayvista.azureedge.net'
+    EndpointName: 'bayvista'
     ProfileName: 'bayvista-cdn'
     PurgeContent: '/*'
