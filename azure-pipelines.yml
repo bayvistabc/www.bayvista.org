@@ -10,10 +10,15 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
+- task: HugoTask@1
+  inputs:
+    source: '/site'
+    destination: '/site/public'
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+- task: AzureRmWebAppDeployment@4
+  inputs:
+    ConnectionType: 'AzureRM'
+    azureSubscription: 'Bit Badger Solutions(8d63f62c-4de2-4682-af66-5b44e7973fd6)'
+    appType: 'webApp'
+    WebAppName: 'bayvista'
+    packageForLinux: '$(System.DefaultWorkingDirectory)/site/public'
