@@ -1,6 +1,6 @@
 ---
 title: {{ replace .Name "-" " " | title }}
-date: {{ .Date }}
+date: {{ now.AddDate 0 0 1 | dateFormat "2006-01-02" }} 07:00:00
 categories:
 - Audio
 episode:
