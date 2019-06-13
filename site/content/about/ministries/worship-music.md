@@ -11,7 +11,7 @@ This is the musical experience for everyone, and not just because it involves ev
 
 The Bay Vista Worship Choir is the main vocal ensemble in our church and is one of the finest volunteer groups on the coast. All vocal soloists and small ensemble members are also members of the Worship Choir. We lead corporate worship in song each Sunday during our morning service, and we also provide special music at least twice each month. We meet to pray Wednesday evenings at 6:15pm (in the choir room, located in the north end of the [worship center](/about-us/campus-map/)), participate in the church-wide prayer meeting at 6:30pm, then rehearse from 7-8pm. As we prepare for special musical events, we sometimes have mystery rehearsals in "exotic" secret locations.
 
-No audition is required to join the Worship Choir. Come "test-drive" singing with us by attending a rehearsal this week. You'll be amazed at all the fun you'll have while preparing to lead worship!
+No audition is required to join the Worship Choir, though volunteers should agree to follow [the peer-developed guidelines](./choir-guidelines/). Come "test-drive" singing with us by attending a rehearsal this week. You'll be amazed at all the fun you'll have while preparing to lead worship!
 
 ## Praise Singers
 
