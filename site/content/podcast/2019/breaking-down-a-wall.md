@@ -5,8 +5,8 @@ categories:
 - Audio
 episode:
   media: 20190616-bayvista-audio.mp3
-  length: 0
-  duration: "00:00"
+  length: 17198414
+  duration: "47:42"
   passage: Acts 10:1-23
   speaker: Bro. Danny Nance
   service_date: June 16th, 2019
