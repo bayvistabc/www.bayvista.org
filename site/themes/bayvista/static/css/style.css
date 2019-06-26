@@ -250,33 +250,37 @@ header h2 {
   color: rgba(0, 0, 0, 0.7);
   font-size: .9rem;
 }
-.small-groups {
+.bvbc-groups {
   display: flex;
   flex-flow: row wrap;
   align-items: flex-start;
 }
-.small-group {
+.bvbc-groups .group {
   width: 18rem;
   margin: .5rem;
   border: solid 1px #a4b2bf;
   border-radius: 10px;
   overflow: hidden;
 }
-.small-group-heading {
+.bvbc-groups .group .heading,
+.bvbc-staff .member .heading {
   padding: 2px 10px;
   margin-bottom: 0;
 }
-.small-group table {
+.bvbc-groups .group table,
+.bvbc-staff .member table {
   width: 100%;
 }
-.small-group td {
+.bvbc-groups .group td,
+.bvbc-staff .member td {
   border-bottom: solid 1px #a4b2bf;
   min-height: 2rem;
 }
-.small-group table tbody tr:last-child td {
+.bvbc-groups .group table tbody tr:last-child td,
+.bvbc-staff .member table tbody tr:last-child td {
   border-bottom: 0;
 }
-.teacher-image {
+.bvbc-groups .teacher {
   border-radius: 20px;
   width: 150px;
   height: 150px;
@@ -284,7 +288,8 @@ header h2 {
   background-size: 150px;
   background-position: right;
 }
-.small-group-footer {
+.bvbc-groups .group .footer,
+.bvbc-staff .member .footer {
   background: lightgray url( '../img/body.png' );
   padding: 2px 10px;
 }
@@ -293,6 +298,44 @@ header h2 {
 }
 .panel-bvbc .panel-heading {
 	background: #a4b2bf url( '../img/body.png' );
+}
+.bvbc-staff {
+  display: flex;
+  flex-flow: row wrap;
+  align-items: flex-start;
+  justify-content: space-around;
+  padding-left: 7rem;
+  padding-right: 7rem;
+}
+@media screen and (max-width:930px) {
+  .bvbc-staff {
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+  }
+}
+@media screen and (max-width:800px) {
+  .bvbc-staff {
+    padding: 0;
+  }
+}
+.bvbc-staff .member {
+  width: 15rem;
+  margin: .5rem;
+  border: solid 1px #a4b2bf;
+  border-radius: 10px;
+  overflow: hidden;
+}
+.bvbc-staff .member .image {
+  border-radius: 5px;
+  width: 175px;
+  height: 220px;
+  margin: auto;
+  background-size: contain;
+  background-position: center;
+}
+.bvbc-staff .member .footer a:link,
+.bvbc-staff .member .footer a:visited {
+  color: black;
 }
 .sermon-nav small {
 	vertical-align: top;
