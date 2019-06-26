@@ -3,7 +3,7 @@ title: Worship Ministries
 url: /ministries/worship/
 ---
 
-<p class="text-center"><img alt="worship_ministry" src="/img/stock/worship_ministry.jpg" width="775" height="96"></p>
+<p style="background-image:url('/img/stock/worship_ministry.jpg');background-size:cover;height:96px;background-position:right;max-width:800px;margin:auto;">&nbsp;</p>
 
 Worship is central to what we do at Bay Vista, and relates to each of our three main focus areas:
 
