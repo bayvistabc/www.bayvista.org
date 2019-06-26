@@ -109,9 +109,24 @@ footer a:link, footer a:visited {
   background: url( '../img/pattern.jpg' );
 }
 .jumbotron {
-	background: #a4b2bf url( '../img/body.png' );
-	padding: 30px;
+  background: #a4b2bf url( '../img/body.png' );
+  padding: 30px;
   border-radius: 10px;
+}
+.bvbc-jumbotron-image {
+  background-image: url('../img/bvbc-jumbotron.png');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  height:230px;
+}
+@media screen and (max-width: 480px) {
+  .jumbotron {
+    padding: 0;
+  }
+  .bvbc-jumbotron-image {
+    height: 175px;
+  }
 }
 .page-content {
   padding: .75rem;
@@ -137,7 +152,6 @@ header h2 {
   justify-content: center;
 }
 .main {
-  min-width: 45rem;
   max-width: 60rem;
 }
 .sidebar {
