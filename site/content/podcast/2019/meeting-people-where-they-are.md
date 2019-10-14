@@ -6,7 +6,7 @@ categories:
 episode:
   media: 20191006-bayvista-audio.mp3
   length: 64342164
-  duration: "01:00"
+  duration: "60:14"
   passage: Acts 17:16-34
   speaker: Bro. Bill Collum
   service_date: October 6th, 2019
