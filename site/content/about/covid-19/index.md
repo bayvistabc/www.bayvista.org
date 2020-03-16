@@ -4,13 +4,13 @@ title: COVID-19 Adjustments
 date: 2020-03-15T15:26:36-05:00
 url: /covid-19/
 ---
-<small>_(Last updated March 15th, 2020)_</small>
+_(Last updated March 15th, 2020; this page will be updated with more current information as it becomes available)_
 
-Bay Vista has decided to alter our schedule over the next few weeks, out of an abundance of caution and to protect our more vulnerable members. We hope that, on Palm Sunday, we resume our normal schedule with no incindents within our congregation.
+Bay Vista has decided to alter our schedule over the next few weeks, out of an abundance of caution and to protect our more vulnerable members. We hope that when we resume our normal schedule on Palm Sunday, it will be with us having had no incindents within our congregation.
 
 ## In-Person Schedule Adjustments
 
-- All Sunday activities for March 22nd and 29th are canceled; regular Sunday activities will resume on Palm Sunday, April 5th.
+- All Sunday activities for March 22nd and 29th are canceled; regular Sunday activities will resume on April 5th, Palm Sunday.
 - All Wednesday evening activities for March 18th, March 25th, and April 1st are canceled.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm) for the week of March 15th, but will be closed the week for March 22nd for an already-planned vacation.
 - Joe Agustin's memorial service on March 23rd is **not canceled**.
@@ -27,7 +27,7 @@ Bay Vista has decided to alter our schedule over the next few weeks, out of an a
 
 ## Why We Made This Decision
 
-This virus appears to have a light to moderate effect on healthy people; in older people, or those whose immune systems are already compromised, though, its effects have been much greater. People who are barely affected can spread the virus to those whose bodies are much less well-equipped to fight it off. While it is true, as Paul told Timothy, that "God has not given us a spirit of fear, but one of power, love, and sound judgment" ([2 Timothy 1:7, CSB][2ti1-7]), our Lord also told us to "be wise as serpents and innocent as doves" ([Matthew 10:16][ma10-16]). With the Gulf Coast schools taking the next week (at least) off, we thought it wise to follow their lead. We also trust in the sovereignty of God, that He will still be able to use us to accomplish His will, encourage one another, and draw the lost to Him.
+This virus appears to have a light to moderate effect on healthy people; however, in older people, or those whose immune systems are already compromised, its effects have been much greater. People who are barely affected can spread the virus to those whose bodies are much less well-equipped to fight it off. While it is true, as Paul told Timothy, that "God has not given us a spirit of fear, but one of power, love, and sound judgment" ([2 Timothy 1:7, CSB][2ti1-7]), our Lord also told us to "be wise as serpents and innocent as doves" ([Matthew 10:16, ESV][ma10-16]). With the Gulf Coast schools taking the next week (at least) off, we thought it wise to follow their lead. We also trust in the sovereignty of God, that He will still be able to use us to accomplish His will, encourage one another, and draw the lost to Him.
 
 ## An Encouraging Word
 
@@ -35,7 +35,7 @@ Martin Luther, the German reformer, served during the time of the Black Plague. 
 
 > I shall ask God mercifully to protect us. Then I shall fumigate, help purify the air, administer medicine and take it. I shall avoid places and persons where my presence is not needed in order not to become contaminated and thus perchance inflict and pollute others and so cause their death as a result of my negligence. If God should wish to take me, He will sure find me and I have done what he has expected of me and so I am not responsible for either my own death or the death of others. If my neighbor needs me however I shall not avoid place or person by will go freely as stated above. See this is such a God-fearing faith because it is neither brash nor foolhardy and does not tempt God.
 
-Our ministry does not stop over the next few weeks, and we pray that we look back and see that this has all be much ado about nother.
+Our ministry does not stop over the next few weeks, and we pray that we look back and see that this has all been much ado about nothing.
 
 
 [2ti1-7]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A7&version=CSB
