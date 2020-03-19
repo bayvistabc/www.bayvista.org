@@ -4,7 +4,7 @@ title: COVID-19 Adjustments
 date: 2020-03-15T15:26:36-05:00
 url: /covid-19/
 ---
-_(Last updated March 16th, 2020; this page will be updated with more current information as it becomes available)_
+_(Last updated March 19th, 2020; this page will be updated with more current information as it becomes available)_
 
 Bay Vista has decided to alter our schedule over the next few weeks, out of an abundance of caution and to protect our more vulnerable members. We hope that when we resume our normal schedule on Palm Sunday, it will be with us having had no incindents within our congregation.
 
@@ -13,8 +13,8 @@ Bay Vista has decided to alter our schedule over the next few weeks, out of an a
 - All Sunday activities for March 22nd and 29th are canceled; regular Sunday activities will resume on April 5th, Palm Sunday.
 - All Wednesday evening activities for March 18th, March 25th, and April 1st are canceled.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm) for the week of March 15th, but will be closed the week for March 22nd for an already-planned vacation.
-- The family ministry fellowship on March 21st is postponed. _(Added March 16th)_
-- Joe Agustin's memorial service on March 23rd is **not canceled**.
+- The family ministry fellowship on March 21st is postponed. _(added March 16th)_
+- Joe Agustin's memorial service on March 23rd is postponed, and the fellowship meal following is canceled. _(changed March 19th)_
 - The Crusader luncheon on April 7th is canceled. _(This is after we are planning to resume services, but is targeted at the highest risk group of people in our congregation.)_
 - The Maundy Thursday service on April 9th is **not canceled** _(though we will make a determination about it as the time draws closer)_.
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
