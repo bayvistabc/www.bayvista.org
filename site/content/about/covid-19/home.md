@@ -4,14 +4,15 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_(Last updated March 21st, 2020; this page will be updated with more current information as it becomes available)_
+_(Last updated March 28th, 2020; this page will be updated with more current information as it becomes available)_
 
-Bay Vista has decided to alter our schedule over the next few weeks, out of an abundance of caution and to protect our more vulnerable members. We hope that when we resume our normal schedule on Palm Sunday, it will be with us having had no incindents within our congregation.
+Bay Vista has decided to alter our schedule over the next few weeks, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members. We hope that when we resume our normal schedule on Palm Sunday, it will be with us having had no incindents within our congregation.
 
 ## In-Person Schedule Adjustments
 
 - All Sunday activities for March 22nd and 29th are canceled; regular Sunday activities will resume on April 5th, Palm Sunday. See below for each Sunday:
     - [March 22nd, 2020](/covid-19/march-22-2020/) _(added March 21st)_
+    - [March 29th, 2020](/covid-19/march-29-2020/) _(added March 28th)_
 - All Wednesday evening activities for March 18th, March 25th, and April 1st are canceled.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm) for the week of March 15th, but will be closed the week for March 22nd for an already-planned vacation.
 - The family ministry fellowship on March 21st is postponed. _(added March 16th)_
