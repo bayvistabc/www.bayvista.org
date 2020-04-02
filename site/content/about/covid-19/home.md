@@ -4,7 +4,7 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_(Last updated March 29th, 2020; this page will be updated with more current information as it becomes available)_
+_(Last updated April 2nd, 2020; this page will be updated with more current information as it becomes available)_
 
 Bay Vista has decided to alter our schedule during this pandemic, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members.
 
@@ -15,19 +15,18 @@ Bay Vista has decided to alter our schedule during this pandemic, ~~out of an ab
     - [March 29th, 2020](/covid-19/march-29-2020/) _(added March 28th)_
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
-- The family ministry fellowship on March 21st is postponed. _(added March 16th)_
-- Joe Agustin's memorial service on March 23rd is postponed, and the fellowship meal following is canceled. _(changed March 19th)_
 - The Crusader luncheon on April 7th is canceled.
 - The Maundy Thursday service on April 9th is canceled; on Holy Wednesday, April 8th, we will post Scriptures and a plan for families to fellowship around the table in their homes. _(updated March 29th)_
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
 - The church leadership will meet again around April 12th to evaluate this schedule based on current projections. _(added March 29th)_
 
+_(See the end of the page for past postponements/cancellations.)_
+
 ## Staying Connected
 
-- Sermons for each week will be available on this site each Sunday morning _(instead of the usual Monday post date)_.
-- Each sermon will be accompanied by a link to a set of songs that will help you worship and prepare your heart to listen to the message.
+- Sermons for each week will be available on this site each Sunday morning _(instead of the usual Monday post date)_. Each sermon will be accompanied by a link to a set of songs that will help you worship and prepare your heart to listen to the message.
 - Sunday School lessons will be shared here and on [our Facebook page](https://www.facebook.com/groups/68059906209/) for personal study and family discussion.
-- Please continue tithing, as the expenses to keep Bay Vista running will not noticeably decrease during this period. Tithes can be dropped off at the chuch office when it is open, or mailed to the address at the bottom of this page.
+- Please continue tithing, as the expenses to keep Bay Vista running will not noticeably decrease during this period. [Tithes can be given online](/giving/), dropped off at the chuch office when it is open, mailed to the address at the bottom of this page. _(added online giving April 2nd)_
 - Worship Arts groups will be contacted by their group leaders to address adjusting for the loss of rehearsal time.
 
 ## Why We Made This Decision
@@ -41,6 +40,13 @@ Martin Luther, the German reformer, served during the time of the Black Plague. 
 > I shall ask God mercifully to protect us. Then I shall fumigate, help purify the air, administer medicine and take it. I shall avoid places and persons where my presence is not needed in order not to become contaminated and thus perchance inflict and pollute others and so cause their death as a result of my negligence. If God should wish to take me, He will sure find me and I have done what he has expected of me and so I am not responsible for either my own death or the death of others. If my neighbor needs me however I shall not avoid place or person by will go freely as stated above. See this is such a God-fearing faith because it is neither brash nor foolhardy and does not tempt God.
 
 Our ministry does not stop over the next few weeks, and we pray that we look back and see that this has all been much ado about nothing.
+
+## Past Postponements/Cancellations
+
+The originally scheduled dates for these events has passed; they have been moved here to keep the list above shorter.
+
+- The family ministry fellowship on March 21st was postponed.
+- Joe Agustin's memorial service on March 23rd was postponed, and the fellowship meal following was canceled.
 
 
 [2ti1-7]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A7&version=CSB
