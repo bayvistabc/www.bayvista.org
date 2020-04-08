@@ -16,7 +16,6 @@ Bay Vista has decided to alter our schedule during this pandemic, ~~out of an ab
     - [April 5th, 2020 - Palm Sunday](/covid-19/april-5-2020/) _(added April 4th)_
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
-- The Crusader luncheon on April 7th is canceled.
 - The Maundy Thursday service on April 9th is canceled; however, [here is a plan you can follow](/covid-19/april-9-2020/) to remember the day when Jesus changed the meaning of Passover forever. _(updated April 7th)_
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
 - The church leadership will meet again around April 12th to evaluate this schedule based on current projections. _(added March 29th)_
@@ -32,7 +31,7 @@ _(See the end of the page for past postponements/cancellations.)_
 
 ## Why We Made This Decision
 
-This virus appears to have a light to moderate effect on healthy people; however, in older people, or those whose immune systems are already compromised, its effects have been much greater. People who are barely affected can spread the virus to those whose bodies are much less well-equipped to fight it off. While it is true, as Paul told Timothy, that "God has not given us a spirit of fear, but one of power, love, and sound judgment" ([2 Timothy 1:7, CSB][2ti1-7]), our Lord also told us to "be wise as serpents and innocent as doves" ([Matthew 10:16, ESV][ma10-16]). With Mississippi's governor's decree prohibiting gatherings of 10 or more until April 17th, and with scientific estimates that the curve is trending up, we are following his guidance. We also trust in the sovereignty of God, that He will still be able to use us to accomplish His will, encourage one another, and draw the lost to Him.
+This virus appears to have a light to moderate effect on healthy people; however, in older people, or those whose immune systems are already compromised, its effects have been much greater. People who are barely affected can spread the virus to those whose bodies are much less well-equipped to fight it off. While it is true, as Paul told Timothy, that "God has not given us a spirit of fear, but one of power, love, and sound judgment" ([2 Timothy 1:7, CSB][2ti1.7]), our Lord also told us to "be wise as serpents and innocent as doves" ([Matthew 10:16, ESV][ma10.16]). With Mississippi's governor's decree prohibiting gatherings of 10 or more until April 17th, and with scientific estimates that the curve is trending up, we are following his guidance. We also trust in the sovereignty of God, that He will still be able to use us to accomplish His will, encourage one another, and draw the lost to Him.
 
 ## An Encouraging Word
 
@@ -48,7 +47,8 @@ The originally scheduled dates for these events has passed; they have been moved
 
 - The family ministry fellowship on March 21st was postponed.
 - Joe Agustin's memorial service on March 23rd was postponed, and the fellowship meal following was canceled.
+- The Crusader luncheon on April 7th was canceled.
 
 
-[2ti1-7]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A7&version=CSB
-[ma10-16]: https://www.biblegateway.com/passage/?search=Matthew+10%3A16&version=ESV
+[2ti1.7]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A7&version=CSB
+[ma10.16]: https://www.biblegateway.com/passage/?search=Matthew+10%3A16&version=ESV
