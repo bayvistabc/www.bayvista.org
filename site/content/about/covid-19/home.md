@@ -4,7 +4,7 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_(Last updated April 4th, 2020; this page will be updated with more current information as it becomes available)_
+_(Last updated April 7th, 2020; this page will be updated with more current information as it becomes available)_
 
 Bay Vista has decided to alter our schedule during this pandemic, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members.
 
@@ -17,7 +17,7 @@ Bay Vista has decided to alter our schedule during this pandemic, ~~out of an ab
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
 - The Crusader luncheon on April 7th is canceled.
-- The Maundy Thursday service on April 9th is canceled; on Holy Wednesday, April 8th, we will post Scriptures and a plan for families to fellowship around the table in their homes. _(updated March 29th)_
+- The Maundy Thursday service on April 9th is canceled; however, [here is a plan you can follow](/covid-19/april-9-2020/) to remember the day when Jesus changed the meaning of Passover forever. _(updated April 7th)_
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
 - The church leadership will meet again around April 12th to evaluate this schedule based on current projections. _(added March 29th)_
 
