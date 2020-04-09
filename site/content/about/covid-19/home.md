@@ -4,21 +4,21 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_(Last updated April 7th, 2020; this page will be updated with more current information as it becomes available)_
+_<small>(Last updated April 7th, 2020; this page will be updated with more current information as it becomes available)</small>_
 
 Bay Vista has decided to alter our schedule during this pandemic, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members.
 
 ## In-Person Schedule Adjustments
 
 - All Sunday activities through April 17th are canceled; regular Sunday activities will resume on April 19th. See below for links to service resources for each Sunday we miss:
-    - [March 22nd, 2020](/covid-19/march-22-2020/) _(added March 21st)_
-    - [March 29th, 2020](/covid-19/march-29-2020/) _(added March 28th)_
-    - [April 5th, 2020 - Palm Sunday](/covid-19/april-5-2020/) _(added April 4th)_
+    - [March 22nd, 2020](/covid-19/march-22-2020/) _<small>(added March 21st)</small>_
+    - [March 29th, 2020](/covid-19/march-29-2020/) _<small>(added March 28th)</small>_
+    - [April 5th, 2020 - Palm Sunday](/covid-19/april-5-2020/) _<small>(added April 4th)</small>_
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
-- The Maundy Thursday service on April 9th is canceled; however, [here is a plan you can follow](/covid-19/april-9-2020/) to remember the day when Jesus changed the meaning of Passover forever. _(updated April 7th)_
+- The Maundy Thursday service on April 9th is canceled; however, [here is a plan you can follow](/covid-19/april-9-2020/) to remember the day when Jesus changed the meaning of Passover forever. _<small>(updated April 7th)</small>_
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
-- The church leadership will meet again around April 12th to evaluate this schedule based on current projections. _(added March 29th)_
+- The church leadership will meet again around April 12th to evaluate this schedule based on current projections. _<small>(added March 29th)</small>_
 
 _(See the end of the page for past postponements/cancellations.)_
 
