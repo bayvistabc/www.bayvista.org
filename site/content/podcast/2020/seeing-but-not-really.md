@@ -1,6 +1,6 @@
 ---
 title: Seeing, but Not Really
-date: 2020-04-11 20:00:00
+date: 2020-04-12 20:00:00
 categories:
 - Audio
 episode:

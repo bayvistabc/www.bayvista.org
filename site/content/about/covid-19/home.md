@@ -13,8 +13,7 @@ Bay Vista has decided to alter our schedule during this pandemic, ~~out of an ab
 - All Sunday activities through April 17th are canceled; regular Sunday activities will resume on April 19th. See below for links to service resources for each Sunday we miss:
     - [March 22nd, 2020](/covid-19/march-22-2020/) _<small>(added March 21st)</small>_
     - [March 29th, 2020](/covid-19/march-29-2020/) _<small>(added March 28th)</small>_
-    - [April 5th, 2020 - Palm Sunday](/covid-19/april-5-2020/) _<small>(added April 4th)</small>_
-    - [April 12th, 2020 - Easter Sunday](/covid-19/april-12-2020/) _<small>(added April 11th)</small>_
+    - [April 5th, 2020 - Palm Sunday](/covid-19/april-5-2020/) _<small>(added April 4th)</small>_ <!--    - [April 12th, 2020 - Easter Sunday](/covid-19/april-12-2020/) _<small>(added April 11th)</small>_ -->
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
