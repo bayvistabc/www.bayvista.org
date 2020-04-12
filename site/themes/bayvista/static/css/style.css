@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css?family=PT+Sans|Righteous');
 @import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 body {
-	font-family: "PT Sans", sans-serif;
-	background: white url( '../img/body.png' );
+  font-family: "PT Sans", sans-serif;
+  background: white url( '../img/body.png' );
   font-size: 1.1rem;
   margin: 0;
 }
@@ -27,28 +27,33 @@ a:hover {
   text-decoration: underline;
 }
 footer {
-	text-align:center;
-	background: lightgray url( '../img/body.png' );
-	padding-top: 5px;
-	padding-bottom: 10px;
+  font-size: 1rem;
+  text-align:center;
+  background: lightgray url( '../img/body.png' );
+  padding-top: 5px;
+  padding-bottom: 10px;
 }
 #motto {
+  font-size: 1rem;
   border-top: solid 1px darkgray;
-	width: 100%;
-	background: #a4b2bf url( '../img/body.png' );
-	border-bottom: solid 1px darkgray;
+  width: 100%;
+  background: #a4b2bf url( '../img/body.png' );
+  border-bottom: solid 1px darkgray;
 }
 @media (min-width: 768px) {
-	body {
-		margin-bottom: 22px;
-	}
-	#motto {
-		position: fixed;
-		bottom: 0;
-	}
+  body {
+    margin-bottom: 22px;
+  }
+  #motto {
+    position: fixed;
+    bottom: 0;
+  }
 }
 footer a:link, footer a:visited {
-	color: #333;
+  color: #333;
+}
+hr {
+  border: solid 1px lightgray;
 }
 .navbar {
   display: flex;
@@ -103,7 +108,7 @@ footer a:link, footer a:visited {
   display: block;
 }
 .navbar {
-	margin-bottom: 0;
+  margin-bottom: 0;
 }
 .wrapper {
   background: url( '../img/pattern.jpg' );
@@ -136,15 +141,15 @@ footer a:link, footer a:visited {
   margin: auto;
 }
 header {
-	background: #a4b2bf url( '../img/body.png' );
-	color: white;
-	margin: -.75rem -.75rem .75rem -.75rem;
-	padding: .75rem;
+  background: #a4b2bf url( '../img/body.png' );
+  color: white;
+  margin: -.75rem -.75rem .75rem -.75rem;
+  padding: .75rem;
 }
 header h2 {
-	margin: -.75rem -.75rem 0 -.75rem;
-	padding: .75rem .75rem 0 .75rem;
-	font-family: Righteous, serif;
+  margin: -.75rem -.75rem 0 -.75rem;
+  padding: .75rem .75rem 0 .75rem;
+  font-family: Righteous, serif;
 }
 .inner-wrapper {
   display: flex;
@@ -227,26 +232,26 @@ header h2 {
   width: 100%;
 }
 .alignright {
-	float: right;
+  float: right;
 }
 .alignleft {
-	float: left;
+  float: left;
 }
 .article-metadata {
-	font-size: 90%;
-	padding-bottom: 10px;
+  font-size: 90%;
+  padding-bottom: 10px;
 }
 .article-metadata h2 {
-	font-weight: bold;
-	margin-bottom: 3px;
+  font-weight: bold;
+  margin-bottom: 3px;
 }
 .article-content {
-	margin-bottom: 30px;
-	border-bottom: solid 1px lightgray;
+  margin-bottom: 30px;
+  border-bottom: solid 1px lightgray;
 }
 .article-metadata-single {
-	padding-left: 15px;
-	margin: -5px 0 20px -15px;
+  padding-left: 15px;
+  margin: -5px 0 20px -15px;
   color: rgba(0, 0, 0, 0.7);
   font-size: .9rem;
 }
@@ -294,10 +299,10 @@ header h2 {
   padding: 2px 10px;
 }
 .bvbc-heading {
-	background: #a4b2bf url( '../img/body.png' );
+  background: #a4b2bf url( '../img/body.png' );
 }
 .panel-bvbc .panel-heading {
-	background: #a4b2bf url( '../img/body.png' );
+  background: #a4b2bf url( '../img/body.png' );
 }
 .bvbc-staff {
   display: flex;
@@ -338,11 +343,11 @@ header h2 {
   color: black;
 }
 .sermon-nav small {
-	vertical-align: top;
+  vertical-align: top;
 }
 .sermon-title, .sermon-title a {
-	font-family: Righteous, serif;
-	color: white;
+  font-family: Righteous, serif;
+  color: white;
 }
 .sermon-title {
   margin: 0;

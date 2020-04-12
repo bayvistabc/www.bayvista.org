@@ -6,8 +6,8 @@
     </div>
   {{- end }}
   {{ .Content -}}
-  <p>&nbsp;</p>
   <p>
+    <br>
     {{ with .Params.episode -}}
     <audio controls style="width:100%;" onplaying="bayvista.countPlay('{{ .media }}')">
       <source src="http://files.djs-consulting.com/sermons/{{ .media }}">
@@ -17,6 +17,33 @@
     <span class="pull-right"><em><a href="http://pdcst.click/c/bay-vista/files.djs-consulting.com/sermons/{{ .media }}">Download File</a></em></span>
     {{- end }}
   </p>
+  {{ with .Params.resources.playlist -}}
+  <p>
+    <em>Listen to
+    <a href="https://www.youtube.com/playlist?list={{ . }}" target="_blank">songs which go along with the message</a>
+    on YouTube</em>
+  </p>
+  {{- end }}
+  {{ with .Params.resources.service_video -}}
+  <hr>
+  <p><strong>Watch the entire service:</strong></p>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/{{ . }}"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+            allowfullscreen="true"
+            title="Service Video"></iframe>
+  </div>
+  {{- end }}
+  {{ with .Params.resources.sermon_video -}}
+  <hr>
+  <p><strong>Watch this sermon:</strong></p>
+  <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+    <iframe src="https://www.youtube.com/embed/{{ . }}"
+            style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;"
+            allowfullscreen="true"
+            title="Service Video"></iframe>
+  </div>
+  {{- end }}
   <p>&nbsp;</p>
   <nav>
     <ul>
