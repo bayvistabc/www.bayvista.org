@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Sunday, April 12th, 2020"
-description: Easter Sunday ~ Online Service Resources
+description: Easter Sunday ~ This Week's Online Service Resources
 date: 2020-04-11 20:00:00
-url: /covid-19/april-12-2020/
+url: /covid-19/this-week/
 ---
 ## Sunday School
 

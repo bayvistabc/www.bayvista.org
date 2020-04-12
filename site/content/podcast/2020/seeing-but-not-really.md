@@ -16,5 +16,3 @@ resources:
   service_video: Dodg29OOSHA
 ---
 The Gospels record two instances of Christ's followers who saw Him after His resurrection, but did not recognize Him at first. The reality that they thought they knew did not match up with true reality, and the reality of Christ's presence healed the immense pain they had in their hearts.
-
-_(This recording is part of our online worship service; more information can be found at [the page for this Sunday](https://www.bayvista.org/covid-19/april-12-2020/).)_
