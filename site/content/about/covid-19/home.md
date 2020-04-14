@@ -4,20 +4,20 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_<small>(Last updated April 11th, 2020; this page will be updated with more current information as it becomes available)</small>_
+_<small>(Last updated April 13th, 2020; this page will be updated with more current information as it becomes available)</small>_
 
 Bay Vista has decided to alter our schedule during this pandemic, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members.
 
 ## In-Person Schedule Adjustments
 
-- All Sunday activities through April 17th are canceled; regular Sunday activities will resume on April 19th. [See here for this week's (April 12th) service resources.](/covid-19/this-week/). Prior weeks we've missed:
+- In compliance with the Mississippi state and Biloxi city shelter-in-place orders, all Sunday activities through April 20th are canceled; regular Sunday activities will resume on April 26th. [See here for this week's (April 12th) service resources.](/covid-19/this-week/) Prior weeks we've missed:
     - [March 22nd, 2020](/2020/03/two-becoming-one/) _<small>(added March 21st)</small>_
     - [March 29th, 2020](/2020/03/a-dream-come-true/) _<small>(added March 28th)</small>_
     - [April 5th, 2020 - Palm Sunday](/2020/04/im-praying-for-you/) _<small>(added April 4th)</small>_
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
-- The church leadership will meet again around April 12th to evaluate this schedule based on current projections. _<small>(added March 29th)</small>_
+- The church leadership will meet again after a planned announcement from Mississippi's governor on April 14th to evaluate this schedule based on current projections. _<small>(added April 13th)</small>_
 
 _(See the end of the page for past postponements/cancellations.)_
 
