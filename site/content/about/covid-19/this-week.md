@@ -8,8 +8,8 @@ url: /covid-19/this-week/
 ## Sunday School
 
 - **Children** -- Check the [Bay Vista Baptist Church Facebook page](https://www.facebook.com/groups/68059906209/)
-- **Youth / College** -- ["Alive with Christ"](http://files.djs-consulting.com/site-assets/2020-04-12-youth-ss.pdf) (_The Gospel Project for Students_, Unit 20, Session 2)
-- **Adults** -- ["Alive with Christ"](http://files.djs-consulting.com/site-assets/2020-04-12-adult-ss.pdf) (_The Gospel Project_, Unit 20, Session 2)
+- **Youth / College** -- "Alive with Christ" (_The Gospel Project for Students_, Unit 20, Session 2)
+- **Adults** -- "Alive with Christ" (_The Gospel Project_, Unit 20, Session 2)
 
 _(Youth and adult lesson links removed Tuesday, April 14th due to copyright restrictions)_
 
