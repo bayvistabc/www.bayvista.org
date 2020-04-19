@@ -4,20 +4,22 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_<small>(Last updated April 13th, 2020; this page will be updated with more current information as it becomes available)</small>_
+_<small>(Last updated April 18<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
 
 Bay Vista has decided to alter our schedule during this pandemic, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members.
 
 ## In-Person Schedule Adjustments
 
-- In compliance with the Mississippi state and Biloxi city shelter-in-place orders, all Sunday activities through April 20th are canceled; regular Sunday activities will resume on April 26th. [See here for this week's (April 12th) service resources.](/covid-19/this-week/) Prior weeks we've missed:
-    - [March 22nd, 2020](/2020/03/two-becoming-one/) _<small>(added March 21st)</small>_
-    - [March 29th, 2020](/2020/03/a-dream-come-true/) _<small>(added March 28th)</small>_
-    - [April 5th, 2020 - Palm Sunday](/2020/04/im-praying-for-you/) _<small>(added April 4th)</small>_
+- In compliance with the Mississippi state and Biloxi city shelter-in-place orders, all Sunday activities through April 27<sup>th</sup> are canceled; regular Sunday activities are currently planned to resume on May 3<sup>rd</sup>. [See here for this week's (April 19<sup>th</sup>) service resources.](/covid-19/this-week/) Prior weeks we've missed:
+    - [March 22<sup>nd</sup>, 2020][03-22] _<small>(added March 21<sup>st</sup>)</small>_
+    - [March 29<sup>th</sup>, 2020][03-29] _<small>(added March 28<sup>th</sup>)</small>_
+    - [April 5<sup>th</sup>, 2020 - Palm Sunday][04-05] _<small>(added April 4<sup>th</sup>)</small>_
+    - [April 12<sup>th</sup>, 2020 - Easter Sunday][04-12] _<small>(added April 18<sup>th</sup>)</small>_
+- The Crusader Luncheon for May 5<sup>th</sup> has been canceled. _<small>(added April 18<sup>th</sup>)</small>_
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
-- The church leadership will meet again after a planned announcement from Mississippi's governor on April 14th to evaluate this schedule based on current projections. _<small>(added April 13th)</small>_
+- The church leadership will meet again after further guidance is released from Mississippi's governor or Biloxi's mayor during the coming week, to evaluate our plans to resume meeting in person. _<small>(updated April 18<sup>th</sup>)</small>_
 
 _(See the end of the page for past postponements/cancellations.)_
 
@@ -25,7 +27,7 @@ _(See the end of the page for past postponements/cancellations.)_
 
 - Sermons for each week will be available on this site each Sunday morning _(instead of the usual Monday post date)_. Each sermon will be accompanied by a link to a set of songs that will help you worship and prepare your heart to listen to the message.
 - Sunday School lessons will be shared here and on [our Facebook page](https://www.facebook.com/groups/68059906209/) for personal study and family discussion.
-- Please continue tithing, as the expenses to keep Bay Vista running will not noticeably decrease during this period. [Tithes can be given online](/giving/), dropped off at the chuch office when it is open, mailed to the address at the bottom of this page. _(added online giving April 2nd)_
+- Please continue tithing, as the expenses to keep Bay Vista running will not noticeably decrease during this period. [Tithes can be given online](/giving/), dropped off at the chuch office when it is open, mailed to the address at the bottom of this page. _<small>(added online giving April 2<sup>nd</sup>)</small>_
 - Worship Arts groups will be contacted by their group leaders to address adjusting for the loss of rehearsal time.
 
 ## Why We Made This Decision
@@ -44,11 +46,15 @@ Our ministry does not stop over the next few weeks, and we pray that we look bac
 
 The originally scheduled dates for these events has passed; they have been moved here to keep the list above shorter.
 
-- The family ministry fellowship on March 21st was postponed.
-- Joe Agustin's memorial service on March 23rd was postponed, and the fellowship meal following was canceled.
-- The Crusader luncheon on April 7th was canceled.
-- The Maundy Thursday service on April 9th was canceled; however, [here is a plan you can follow](/covid-19/april-9-2020/) to remember the day when Jesus changed the meaning of Passover forever.
+- The family ministry fellowship on March 21<sup>st</sup> was postponed.
+- Joe Agustin's memorial service on March 23<sup>rd</sup> was postponed, and the fellowship meal following was canceled.
+- The Crusader luncheon on April 7<sup>th</sup> was canceled.
+- The Maundy Thursday service on April 9<sup>th</sup> was canceled; however, [here is a plan you can follow](/covid-19/april-9-2020/) to remember the day when Jesus changed the meaning of Passover forever.
 
 
+[03-22]: /2020/03/two-becoming-one/
+[03-29]: /2020/03/a-dream-come-true/
+[04-05]: /2020/04/im-praying-for-you/
+[04-12]: /2020/04/seeing-but-not-really/
 [2ti1.7]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A7&version=CSB
 [ma10.16]: https://www.biblegateway.com/passage/?search=Matthew+10%3A16&version=ESV
