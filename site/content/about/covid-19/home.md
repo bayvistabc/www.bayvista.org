@@ -10,11 +10,12 @@ Bay Vista has decided to alter our schedule during this pandemic, ~~out of an ab
 
 ## In-Person Schedule Adjustments
 
-- In compliance with the Mississippi state and Biloxi city shelter-in-place orders, all Sunday activities through April 27<sup>th</sup> are canceled; regular Sunday activities are currently planned to resume on May 3<sup>rd</sup>. [See here for this week's (April 19<sup>th</sup>) service resources.](/covid-19/this-week/) Prior weeks we've missed:
+- In compliance with the Mississippi state and Biloxi city shelter-in-place orders, all Sunday activities through April 27<sup>th</sup> are canceled; regular Sunday activities are currently planned to resume on May 3<sup>rd</sup>. [See here for this week's (April 26<sup>th</sup>) service resources.](/covid-19/this-week/) Prior weeks we've missed:
     - [March 22<sup>nd</sup>, 2020][03-22] _<small>(added March 21<sup>st</sup>)</small>_
     - [March 29<sup>th</sup>, 2020][03-29] _<small>(added March 28<sup>th</sup>)</small>_
     - [April 5<sup>th</sup>, 2020 - Palm Sunday][04-05] _<small>(added April 4<sup>th</sup>)</small>_
     - [April 12<sup>th</sup>, 2020 - Easter Sunday][04-12] _<small>(added April 18<sup>th</sup>)</small>_
+    - [April 19<sup>th</sup>, 2020][04-19] _<small>(added April 25<sup>th</sup>)</small>_
 - The Crusader Luncheon for May 5<sup>th</sup> has been canceled. _<small>(added April 18<sup>th</sup>)</small>_
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
@@ -56,5 +57,6 @@ The originally scheduled dates for these events has passed; they have been moved
 [03-29]: /2020/03/a-dream-come-true/
 [04-05]: /2020/04/im-praying-for-you/
 [04-12]: /2020/04/seeing-but-not-really/
+[04-19]: /2020/04/walking-in-unity/
 [2ti1.7]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A7&version=CSB
 [ma10.16]: https://www.biblegateway.com/passage/?search=Matthew+10%3A16&version=ESV
