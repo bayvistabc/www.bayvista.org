@@ -4,7 +4,7 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_<small>(Last updated April 18<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
+_<small>(Last updated April 25<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
 
 Bay Vista has decided to alter our schedule during this pandemic, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members.
 

@@ -2,7 +2,7 @@
 layout: page
 title: Sunday, April 26th, 2020
 description: This Week's Online Service Resources
-date: 2020-04-18 20:00:00
+date: 2020-04-25 20:00:00
 url: /covid-19/this-week/
 ---
 ## Sunday School
