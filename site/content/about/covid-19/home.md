@@ -4,18 +4,19 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_<small>(Last updated April 25<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
+_<small>(Last updated April 26<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
 
-Bay Vista has decided to alter our schedule during this pandemic, ~~out of an abundance~~ using an appropriate level of caution and to protect our more vulnerable members.
+Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abundance~~ using an appropriate level of caution, and complying with city and state requirements &ndash; to protect our more vulnerable members.
 
 ## In-Person Schedule Adjustments
 
-- In compliance with the Mississippi state and Biloxi city shelter-in-place orders, all Sunday activities through April 27<sup>th</sup> are canceled; regular Sunday activities are currently planned to resume on May 3<sup>rd</sup>. [See here for this week's (April 26<sup>th</sup>) service resources.](/covid-19/this-week/) Prior weeks we've missed:
-    - [March 22<sup>nd</sup>, 2020][03-22] _<small>(added March 21<sup>st</sup>)</small>_
-    - [March 29<sup>th</sup>, 2020][03-29] _<small>(added March 28<sup>th</sup>)</small>_
-    - [April 5<sup>th</sup>, 2020 - Palm Sunday][04-05] _<small>(added April 4<sup>th</sup>)</small>_
-    - [April 12<sup>th</sup>, 2020 - Easter Sunday][04-12] _<small>(added April 18<sup>th</sup>)</small>_
+- In compliance with the Mississippi state and Biloxi city shelter-in-place and safer-at-home orders, in-person Sunday activities are canceled; church leadership is currently working on a reopening plan, and will make that plan public once it is ready. Service pages for each week:
+    - [This Week - April 26<sup>th</sup>, 2020](/covid-19/this-week/)
     - [April 19<sup>th</sup>, 2020][04-19] _<small>(added April 25<sup>th</sup>)</small>_
+    - [April 12<sup>th</sup>, 2020 - Easter Sunday][04-12] _<small>(added April 18<sup>th</sup>)</small>_
+    - [April 5<sup>th</sup>, 2020 - Palm Sunday][04-05] _<small>(added April 4<sup>th</sup>)</small>_
+    - [March 29<sup>th</sup>, 2020][03-29] _<small>(added March 28<sup>th</sup>)</small>_
+    - [March 22<sup>nd</sup>, 2020][03-22] _<small>(added March 21<sup>st</sup>)</small>_
 - The Crusader Luncheon for May 5<sup>th</sup> has been canceled. _<small>(added April 18<sup>th</sup>)</small>_
 - All Wednesday evening activities will not meet until after our first Sunday back.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
@@ -41,7 +42,7 @@ Martin Luther, the German reformer, served during the time of the Black Plague. 
 
 > I shall ask God mercifully to protect us. Then I shall fumigate, help purify the air, administer medicine and take it. I shall avoid places and persons where my presence is not needed in order not to become contaminated and thus perchance inflict and pollute others and so cause their death as a result of my negligence. If God should wish to take me, He will sure find me and I have done what he has expected of me and so I am not responsible for either my own death or the death of others. If my neighbor needs me however I shall not avoid place or person by will go freely as stated above. See this is such a God-fearing faith because it is neither brash nor foolhardy and does not tempt God.
 
-Our ministry does not stop over the next few weeks, and we pray that we look back and see that this has all been much ado about nothing.
+Our ministry does not stop during this time, and we pray that we look back and see that this has all been much ado about nothing.
 
 ## Past Postponements/Cancellations
 
