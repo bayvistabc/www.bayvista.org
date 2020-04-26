@@ -15,7 +15,7 @@ _(Youth and adult lesson links removed Tuesday, April 28<sup>th</sup> due to cop
 
 ## Corporate Worship
 
-- **Complete Service** -- We will watch this service together at 10:30am on April 26th. You can watch it below, or, if you'd like to join us for live comments, click the link in the upper left-hand corner to watch it on YouTube.
+- **Complete Service** -- Watch it below, or click the link in the upper left-hand corner to watch it on YouTube (along with live comments).
 
 {{< youtube nzVnfpI49-8 >}}
 
