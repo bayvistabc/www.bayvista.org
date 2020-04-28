@@ -8,8 +8,8 @@ url: /covid-19/this-week/
 ## Sunday School
 
 - **Children** -- Check the [Bay Vista Baptist Church Facebook page](https://www.facebook.com/groups/68059906209/)
-- **Youth / College** -- ["John Points to Jesus"](http://files.djs-consulting.com/site-assets/2020-04-26-youth-ss.pdf) (_The Gospel Project for Students_, Unit 20, Session 4)
-- **Adults** -- ["John Points to Jesus"](http://files.djs-consulting.com/site-assets/2020-04-26-adult-ss.pdf) (_The Gospel Project_, Unit 20, Session 4)
+- **Youth / College** -- "John Points to Jesus" (_The Gospel Project for Students_, Unit 20, Session 4)
+- **Adults** -- "John Points to Jesus" (_The Gospel Project_, Unit 20, Session 4)
 
 _(Youth and adult lesson links removed Tuesday, April 28<sup>th</sup> due to copyright restrictions)_
 
