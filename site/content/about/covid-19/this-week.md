@@ -1,25 +1,25 @@
 ---
 layout: page
-title: Sunday, April 26th, 2020
+title: Sunday, May 3rd, 2020
 description: This Week's Online Service Resources
-date: 2020-04-25 20:00:00
+date: 2020-05-02 00:00:00
 url: /covid-19/this-week/
 ---
 ## Sunday School
 
 - **Children** -- Check the [Bay Vista Baptist Church Facebook page](https://www.facebook.com/groups/68059906209/)
-- **Youth / College** -- "John Points to Jesus" (_The Gospel Project for Students_, Unit 20, Session 4)
-- **Adults** -- "John Points to Jesus" (_The Gospel Project_, Unit 20, Session 4)
+- **Youth / College** -- ["Jesus Calls His Disciples"](http://files.djs-consulting.com/site-assets/2020-05-03-youth-ss.pdf) (_The Gospel Project for Students_, Unit 20, Session 5)
+- **Adults** -- ["Jesus Calls His Disciples"](http://files.djs-consulting.com/site-assets/2020-05-03-adult-ss.pdf) (_The Gospel Project_, Unit 20, Session 5)
 
-_(Youth and adult lesson links removed Tuesday, April 28<sup>th</sup> due to copyright restrictions)_
+_(Youth and adult lesson links removed Tuesday, May 5<sup>th</sup> due to copyright restrictions)_
 
 ## Corporate Worship
 
-- **Complete Service** -- Watch it below, or click the link in the upper left-hand corner to watch it on YouTube (along with live comments).
+- **Complete Service** -- Join us at 10:30am CDT on Sunday, May 3<sup>rd</sup> to watch it together (once that time has passed, it's still available). Clicking the link in the upper left-hand corner will allow you to watch it on YouTube (along with live comments).
 
-{{< youtube nzVnfpI49-8 >}}
+{{< youtube EApZJnQspcU >}}
 
-- **Individual Files** -- [This playlist](https://www.youtube.com/playlist?list=PLdltai4xtI5jyVtxELU91oKBmQvZ0shio) has the call to worship, the welcome and Scripture, the song set, the transition song, and the message from our service individually.
-- **Sermon Only** -- ["Walking in Diversity"](/2020/04/walking-in-diversity/) from [Ephesians 4:7-16](https://www.biblegateway.com/passage/?search=Ephesians+4%3A7-16&version=NIV), or watch below:
+- **Individual Files** -- [This playlist](https://www.youtube.com/playlist?list=PLdltai4xtI5iWrVfSpPNSk1ibpjLnMdGe) has the call to worship, the welcome and Scripture, the song set, the transition song, and the message from our service individually.
+- **Sermon Only** -- ["Walking as the New Self"](/2020/05/walking-as-the-new-self/) from [Ephesians 4:17-24](https://www.biblegateway.com/passage/?search=Ephesians+4%3A17-24&version=NIV), or watch below:
 
-{{< youtube g2EbjE78lHE >}}
+{{< youtube zqLpx_vOYTY >}}
