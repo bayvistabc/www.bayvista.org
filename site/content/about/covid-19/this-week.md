@@ -8,8 +8,8 @@ url: /covid-19/this-week/
 ## Sunday School
 
 - **Children** -- Check the [Bay Vista Baptist Church Facebook page](https://www.facebook.com/groups/68059906209/)
-- **Youth / College** -- ["Jesus Reveals His Power"](http://files.djs-consulting.com/site-assets/2020-05-10-youth-ss.pdf) (_The Gospel Project for Students_, Unit 21, Session 1)
-- **Adults** -- ["Jesus Reveals His Power"](http://files.djs-consulting.com/site-assets/2020-05-10-adult-ss.pdf) (_The Gospel Project_, Unit 21, Session 1)
+- **Youth / College** -- "Jesus Reveals His Power" (_The Gospel Project for Students_, Unit 21, Session 1)
+- **Adults** -- "Jesus Reveals His Power" (_The Gospel Project_, Unit 21, Session 1)
 
 _(Youth and adult lesson links removed Tuesday, May 12<sup>th</sup> due to copyright restrictions)_
 
