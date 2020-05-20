@@ -8,8 +8,8 @@ url: /covid-19/this-week/
 ## Sunday School
 
 - **Children** -- Check the [Bay Vista Baptist Church Facebook page](https://www.facebook.com/groups/68059906209/)
-- **Youth / College** -- ["Jesus Reveals His Mission"](http://files.djs-consulting.com/site-assets/2020-05-17-youth-ss.pdf) (_The Gospel Project for Students_, Unit 21, Session 2)
-- **Adults** -- ["Jesus Reveals His Mission"](http://files.djs-consulting.com/site-assets/2020-05-17-adult-ss.pdf) (_The Gospel Project_, Unit 21, Session 2)
+- **Youth / College** -- "Jesus Reveals His Mission" (_The Gospel Project for Students_, Unit 21, Session 2)
+- **Adults** -- "Jesus Reveals His Mission" (_The Gospel Project_, Unit 21, Session 2)
 
 _(Youth and adult lesson links removed Tuesday, May 19<sup>th</sup> due to copyright restrictions)_
 
