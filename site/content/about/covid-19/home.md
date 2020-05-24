@@ -4,14 +4,15 @@ title: COVID-19 Adjustments
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_<small>(Last updated May 16<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
+_<small>(Last updated May 23<sup>rd</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
 
 Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abundance~~ using an appropriate level of caution, and complying with city and state requirements &ndash; to protect our more vulnerable members.
 
 ## In-Person Schedule Adjustments
 
 - In compliance with the Mississippi state and Biloxi city shelter-in-place and safer-at-home orders, in-person Sunday activities are canceled through the end of May; we are planning to resume services on June 7<sup>th</sup>. Church leadership is currently working on a reopening plan, and will make that plan public once it is ready. Service pages for each week:
-    - [This Week - May 17<sup>th</sup>, 2020](/covid-19/this-week/)
+    - [This Week - May 24<sup>th</sup>, 2020 - Memorial Day Weekend](/covid-19/this-week/)
+    - [May 17<sup>th</sup>, 2020][05-17] _<small>(added May 23<sup>rd</sup>)</small>_
     - [May 10<sup>th</sup>, 2020 - Mother's Day][05-10] _<small>(added May 16<sup>th</sup>)</small>_
     - [May 3<sup>rd</sup>, 2020][05-03] _<small>(added May 9<sup>th</sup>)</small>_
     - [April 26<sup>th</sup>, 2020][04-26] _<small>(added May 2<sup>nd</sup>)</small>_
@@ -21,6 +22,7 @@ Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abun
     - [March 29<sup>th</sup>, 2020][03-29] _<small>(added March 28<sup>th</sup>)</small>_
     - [March 22<sup>nd</sup>, 2020][03-22] _<small>(added March 21<sup>st</sup>)</small>_
 - All Wednesday evening activities will not meet until after our first Sunday back.
+- The Crusader Luncheon for June 2<sup>nd</sup> is canceled. _<small>(added May 23<sup>rd</sup>)</small>_
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
 
@@ -63,5 +65,6 @@ The originally scheduled dates for these events has passed; they have been moved
 [04-26]: /2020/04/walking-in-diversity/
 [05-03]: /2020/05/walking-as-the-new-self/
 [05-10]: /2020/05/walking-in-love/
+[05-17]: /2020/05/darkness-and-light/
 [2ti1.7]: https://www.biblegateway.com/passage/?search=2+Timothy+1%3A7&version=CSB
 [ma10.16]: https://www.biblegateway.com/passage/?search=Matthew+10%3A16&version=ESV
