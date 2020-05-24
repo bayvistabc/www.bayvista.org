@@ -5,8 +5,8 @@ categories:
 - Audio
 episode:
   media: 20200517-bayvista-audio.mp3
-  length: 16805810
-  duration: "39:21"
+  length: 17001601
+  duration: "38:51"
   passage: Ephesians 5:3-14
   speaker: Bro. Danny Nance
   service_date: May 17th, 2020

@@ -5,8 +5,8 @@ categories:
 - Audio
 episode:
   media: 20200510-bayvista-audio.mp3
-  length: 16805810
-  duration: "39:21"
+  length: 19793263
+  duration: "44:54"
   passage: Ephesians 4:25-5:2
   speaker: Bro. Danny Nance
   service_date: May 10th, 2020
