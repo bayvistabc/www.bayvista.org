@@ -10,11 +10,11 @@
     <br>
     {{ with .Params.episode -}}
     <audio controls style="width:100%;" onplaying="bayvista.countPlay('{{ .media }}')">
-      <source src="http://files.djs-consulting.com/sermons/{{ .media }}">
+      <source src="https://files.bitbadger.solutions/sermons/{{ .media }}">
     </audio>
     <br>
     <strong>Listen Online</strong>
-    <span class="pull-right"><em><a href="http://pdcst.click/c/bay-vista/files.djs-consulting.com/sermons/{{ .media }}">Download File</a></em></span>
+    <span class="pull-right"><em><a href="https://pdcst.click/c/bay-vista/files.bitbadger.solutions/sermons/{{ .media }}">Download File</a></em></span>
     {{- end }}
   </p>
   {{ with .Params.resources.playlist -}}

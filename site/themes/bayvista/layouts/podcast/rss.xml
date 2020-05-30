@@ -60,7 +60,7 @@
         {{- end }}
         <dc:creator>{{ $feed.itunes.owner }}</dc:creator>
         {{ with .Params.episode -}}
-          <enclosure url="http://pdcst.click/c/bay-vista/files.djs-consulting.com/sermons/{{ .media }}" length="{{ .length }}" type="{{ if .media_type }}{{ .media_type }}{{ else }}{{ $feed.default_media_type }}{{ end }}" />
+          <enclosure url="https://pdcst.click/c/bay-vista/files.bitbadger.solutions/sermons/{{ .media }}" length="{{ .length }}" type="{{ if .media_type }}{{ .media_type }}{{ else }}{{ $feed.default_media_type }}{{ end }}" />
           <itunes:author>{{ $feed.itunes.owner }}</itunes:author>
           <itunes:subtitle>{{ .subtitle }}</itunes:subtitle>
           <itunes:summary>{{ $content }}</itunes:summary>

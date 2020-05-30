@@ -32,5 +32,5 @@ params:
       subcategory: Christianity
       explicit: "no"
       url: https://itunes.apple.com/us/podcast/bay-vista-baptist-church-audio/id863034196
-    media_base_url: http://pdcst.click/c/bay-vista/files.djs-consulting.com/sermons/
+    media_base_url: https://pdcst.click/c/bay-vista/files.bitbadger.solutions/sermons/
     default_media_type: audio/mpeg
