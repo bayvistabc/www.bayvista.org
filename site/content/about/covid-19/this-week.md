@@ -8,8 +8,8 @@ url: /covid-19/this-week/
 ## Sunday School
 
 - **Children** -- Check the [Bay Vista Baptist Church Facebook page](https://www.facebook.com/groups/68059906209/)
-- **Youth / College** -- ["Jesus Teaches about Living Water"](https://files.bitbadger.solutions/site-assets/2020-05-31-youth-ss.pdf) (_The Gospel Project for Students_, Unit 21, Session 4)
-- **Adults** -- ["Jesus Teaches about Living Water"](https://files.bitbadger.solutions/site-assets/2020-05-31-adult-ss.pdf) (_The Gospel Project_, Unit 21, Session 4)
+- **Youth / College** -- "Jesus Teaches about Living Water" (_The Gospel Project for Students_, Unit 21, Session 4)
+- **Adults** -- "Jesus Teaches about Living Water" (_The Gospel Project_, Unit 21, Session 4)
 
 _(Youth and adult lesson links removed Tuesday, June 2<sup>nd</sup> due to copyright restrictions)_
 
