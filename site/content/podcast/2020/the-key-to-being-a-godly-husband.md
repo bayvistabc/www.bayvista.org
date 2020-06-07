@@ -1,6 +1,6 @@
 ---
 title: The Key to Being a Godly Husband
-date: 2020-06-07 20:00:00
+date: 2020-06-07 18:00:00
 categories:
 - Audio
 episode:
