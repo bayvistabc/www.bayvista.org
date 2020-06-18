@@ -5,7 +5,7 @@ description: Our response to COVID-19
 date: 2020-03-15 15:26:37
 url: /covid-19/
 ---
-_<small>(Last updated June 3<sup>rd</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
+_<small>(Last updated June 18<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
 
 Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abundance~~ using an appropriate level of caution, and complying with city and state requirements &ndash; to protect our more vulnerable members.
 
@@ -14,7 +14,8 @@ Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abun
 ## In-Person Schedule Adjustments
 
 - We are having one service each Sunday, at 10:30am. We are currently not having any other Sunday activities. Please see [Bro. Danny's reopening update](./reopening-update/) for information on the changes we have implemented for these in-person services.
-- Choir rehersal will resume Wednesday, June 10<sup>th</sup>, at 6:30pm; it will be held in the worship center rather than the choir room. The choir will not be in the loft until further notice.
+- Choir rehersal has resumed; it is held on Wednesdays at 6:30pm, in the worship center rather than the choir room.
+- Sunday School will resume July 12<sup>th</sup>.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
 
