@@ -1,6 +1,6 @@
 # Azure Pipeline for deploying a new version of the site
 trigger:
-- master
+- main
 
 pool:
   vmImage: 'windows-2019'
