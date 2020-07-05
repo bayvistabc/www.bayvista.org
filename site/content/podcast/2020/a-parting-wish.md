@@ -1,6 +1,6 @@
 ---
 title: A Parting Wish
-date: 2020-07-06 07:00:00
+date: 2020-07-05 15:00:00
 categories:
 - Audio
 episode:
