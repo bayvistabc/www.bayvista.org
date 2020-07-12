@@ -2,7 +2,7 @@
 layout: page
 title: Schedule Adjustments and Reopening Information
 description: Our response to COVID-19
-date: 2020-03-15 15:26:37
+date: 2020-07-12 15:00:00
 url: /covid-19/
 ---
 _<small>(Last updated July 12<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
