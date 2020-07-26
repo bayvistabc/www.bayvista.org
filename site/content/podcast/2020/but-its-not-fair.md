@@ -1,6 +1,6 @@
 ---
 title: But It's Not Fair
-date: 2020-07-27 15:00:00
+date: 2020-07-26 15:00:00
 categories:
 - Audio
 episode:
