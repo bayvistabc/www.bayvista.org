@@ -23,8 +23,12 @@ url: /about-us/church-staff/
     <table>
       <tr>
         <td class="text-center">
-          <div class="image" style="background-image: url('/img/staff/daniel-summers-175.jpg')">&nbsp;</div>
-          <strong>Daniel Summers</strong>
+          <strong><em>Vacant</em></strong><br>
+          <small>
+            Interim Leaders:<br>
+            Charmel Seto <em>(Choir / Planning)</em><br>
+            David Atkins <em>(Congregation)</em>
+          </small>
         </td>
       </tr>
     </table>
