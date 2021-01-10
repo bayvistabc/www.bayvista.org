@@ -9,8 +9,6 @@ _<small>(Last updated January 10<sup>th</sup>, 2021; this page will be updated w
 
 Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abundance~~ using an appropriate level of caution, and complying with city and state requirements &ndash; to protect our more vulnerable members.
 
-### [We are reopening June 7<sup>th</sup>!](./reopening-update/)
-
 ## In-Person Schedule Adjustments
 
 - We will resume one service each Sunday, at 10:30am, effective 17 January 2021. At at this time, we will not be having any other Sunday activities. Please see [Bro. Danny's reopening update](./reopening-update/) for information on the changes we have implemented for these in-person services.
