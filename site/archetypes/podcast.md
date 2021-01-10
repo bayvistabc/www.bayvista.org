@@ -12,4 +12,5 @@ episode:
   service_date: {{ dateFormat "January " .Date }}{{ dateFormat "2" .Date | humanize }}{{ dateFormat ", 2006" .Date }}
 resources:
   playlist:
+  service_video:
 ---

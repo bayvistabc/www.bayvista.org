@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Schedule Adjustments and Reopening Information
-description: Our response to COVID-19
-date: 2020-07-12 15:00:00
+title: New Reopening Announcement
+description: Our on-going response to COVID-19
+date: 2021-01-10 15:00:00
 url: /covid-19/
 ---
-_<small>(Last updated July 12<sup>th</sup>, 2020; this page will be updated with more current information as it becomes available)</small>_
+_<small>(Last updated January 10<sup>th</sup>, 2021; this page will be updated with more current information as it becomes available)</small>_
 
 Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abundance~~ using an appropriate level of caution, and complying with city and state requirements &ndash; to protect our more vulnerable members.
 
@@ -13,10 +13,10 @@ Bay Vista has altered our schedule during this pandemic &ndash; ~~out of an abun
 
 ## In-Person Schedule Adjustments
 
-- We are having one service each Sunday, at 10:30am. We are currently not having any other Sunday activities. Please see [Bro. Danny's reopening update](./reopening-update/) for information on the changes we have implemented for these in-person services.
-- Beginning Sunday, 19 July, masks will be required in the sanctuary during the worship service.  If you do not have a mask, there will be fabric masks available for use on Sunday, and a collection basket will be placed for them to be collected and sanitized before the next meeting.  Masks are not required for those who are under the age of 4 years, those with respiratory issues that make breathing with a mask difficult, or while attendees are singing or speaking from the platform.
-- Choir rehersal has resumed; it is held on Wednesdays at 6:30pm, in the worship center rather than the choir room.
-- Sunday School will tentatively resume August 2<sup>th</sup>.
+- We will resume one service each Sunday, at 10:30am, effective 17 January 2021. At at this time, we will not be having any other Sunday activities. Please see [Bro. Danny's reopening update](./reopening-update/) for information on the changes we have implemented for these in-person services.
+- Masks will be required in the sanctuary during the worship service.  If you do not have a mask, there will be fabric masks available for use on Sunday, and a collection basket will be placed for them to be collected and sanitized before the next meeting.  Masks are not required for those who are under the age of 4 years, those with respiratory issues that make breathing with a mask difficult, or while attendees are singing or speaking from the platform.
+- Choir rehersal has resumed; it is held on Wednesdays at 6:30pm.
+- Sunday School will resume at a time TBD.
 - The church office will be open normal hours (Monday-Thursday, 8:30am to 1pm).
 - For any regularly-scheduled committee meeting, contact the chairman of that committee.
 
