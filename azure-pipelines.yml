@@ -16,7 +16,7 @@ steps:
   displayName: Depoly New Files to Azure App Service
   inputs:
     ConnectionType: 'AzureRM'
-    azureSubscription: 'Bit Badger Solutions(8d63f62c-4de2-4682-af66-5b44e7973fd6)'
+    azureSubscription: 'Bit Badger Service Connection'
     appType: 'webApp'
     WebAppName: 'bayvista'
     packageForLinux: '$(System.DefaultWorkingDirectory)/site/public'
@@ -25,7 +25,7 @@ steps:
   displayName: Purge CDN Endpoint
   inputs:
     ConnectedServiceNameSelector: 'ConnectedServiceNameARM'
-    ConnectedServiceNameARM: 'Bit Badger Solutions(8d63f62c-4de2-4682-af66-5b44e7973fd6)'
+    ConnectedServiceNameARM: 'Bit Badger Service Connection'
     ResourceGroupName: 'BayVista'
     EndpointName: 'bayvista'
     ProfileName: 'bayvista-cdn'
