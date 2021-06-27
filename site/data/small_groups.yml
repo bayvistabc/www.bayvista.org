@@ -30,6 +30,8 @@
   teachers:
   - name: Bill Collum
     img: 
+  - name: Dave Atkins
+    img: 
 - name: Ladies 1 -- Meets Tuesdays 10AM
   age_group: Adult Ladies
   building: EEC
