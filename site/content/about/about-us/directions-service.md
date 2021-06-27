@@ -12,12 +12,16 @@ url: /about-us/directions-service/
       10:30am - Worship Service
     </p>
     <p>
-      <strong>Sunday Evening:</strong><br>
+      <strong>Sunday Evening: (School Year only, summers off)</strong><br>
       05:00pm - <a href="/ministries/children/">AWANA</a> for Kids | TREK &amp; Journey for teens | Evening Bible study for adults
     </p>
     <p>
+      <strong>Tuesday Morning:</strong><br>
+      10:00am - Ladies 1 Small Group Bible Study<br>
+    </p>
+    <p>
       <strong>Wednesday Evening:</strong><br>
-      06:30pm - Prayer Meeting/Bible Study | Worship Choir Rehearsal | Children's Activities
+      06:30pm - Worship Choir Rehearsal
     </p>
   </div>
 </div>
