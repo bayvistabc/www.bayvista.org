@@ -19,4 +19,4 @@ At Bay Vista, we do not "collect" the offerings. We "present" them to the Lord. 
 
 ### What about Communion?
 
-Occasionally (usually about once per quarter) we offer communion during Sunday morning services. This is a time of self-reflection and praise for the sacrifice that Jesus Christ made on our behalf. Because of that, this time of fellowship with the Lord is reserved for professing Christians. If you are a follower of Jesus Christ, then we invite and encourage you to participate. [more](/about-us/what-we-believe/#about-communion)
+Occasionally (usually about once per quarter) we offer communion during Sunday morning services. This is a time of self-reflection and praise for the sacrifice that Jesus Christ made on our behalf. Because of that, this time of fellowship with the Lord is reserved for professing Christians. If you are a follower of Jesus Christ, then we invite and encourage you to participate. [more...](/about-us/what-we-believe/#about-communion)
