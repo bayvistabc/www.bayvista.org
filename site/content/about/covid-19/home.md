@@ -2,7 +2,7 @@
 layout: page
 title: COVID-19 Information
 description: Our on-going response to COVID-19
-date: 2021-07-01 08:00:00
+date: 2021-06-01 08:00:00
 url: /covid-19/
 ---
 _<small>(Last updated July<sup>1st</sup>, 2021; this page will be updated with more current information as it becomes available)</small>_
