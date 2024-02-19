@@ -1,0 +1,56 @@
+- name: Bed Babies / Toddlers / Preschool
+  building: EEC
+  room: Room 104 (Nursery)
+  teachers:
+  - name: Rotating Volunteers
+- name: Kindergarten / Elementary
+  age_group: K - 5th Grade
+  building: EEC
+  room: Room 107 (Red)
+  curriculum: The Gospel Project for Kids
+  teachers:
+  - name: Angel Thomas
+    img: 
+  - name: Alan Thomas
+    img: 
+  - name: Teresa Untershine
+- name: Middle School / Youth
+  age_group: 6th - 12th Grades
+  building: EEC
+  room: Room 103 (Green)
+  curriculum: The Gospel Project for Students
+  teachers:
+  - name: Rob Cornelson
+    img:
+- name: Adult 1
+  age_group: Adult Co-Ed
+  building: Sanctuary
+  room: Sanctuary
+  curriculum: The Gospel Project
+  teachers:
+  - name: Bill Collum
+    img: 
+  - name: Dave Atkins
+    img: 
+- name: Ladies 1 -- Meets Tuesdays 10AM
+  age_group: Adult Ladies
+  building: EEC
+  room: Room 101 (Orange)
+  curriculum: The Gospel Project
+  teachers:
+  - name: Betty Hardman
+    img: 
+  - name: Becky Harlan
+    img:  
+  - name: Nellie Schofield
+    img:
+- name: Adult 3
+  age_group: Median Adult Co-Ed
+  building: Worship Center
+  room: West Practice Room
+  curriculum: The Gospel Project
+  teachers:
+  - name: Don Beaucaire
+    img: 
+  - name: Cheryl Kirk
+    img: 

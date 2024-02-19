@@ -1,0 +1,74 @@
+{{- $feed    := .Site.Params.podcast_feed -}}
+{{- $feedURL := print .Permalink "index.xml" -}}
+{{- $catURL  := print .Site.BaseURL $feed.non_feed_url -}}
+{{ "<" | safeHTML }}?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/">
+  <channel>
+    <title>{{ $feed.title }}</title>
+    <description>{{ $feed.subtitle }}</description>
+    <link>{{ $catURL }}</link>
+    <atom:link href="{{ $feedURL }}" rel="self" type="application/rss+xml" />
+    {{- with $feed.copyright }}<copyright>{{ . }}</copyright>{{ end }}
+    {{ range first 1 .Pages -}}
+      {{- $asOf := replace (.Date.Format "Mon, 02 Jan 2006 15:04:05 MST") "UTC" "GMT" -}}
+      <pubDate>{{ $asOf }}</pubDate>
+      <lastBuildDate>{{ $asOf }}</lastBuildDate>
+    {{- end }}
+    <generator>Hugo v{{ hugo.Version }}</generator>
+    <language>{{ if $feed.lanuage }}{{ $feed.language }}{{ else }}en{{ end }}</language>
+    <managingEditor>{{ $feed.itunes.email }} ({{ $feed.itunes.owner }})</managingEditor>
+    <image>
+      <title>{{ $feed.title }}</title>
+      <url>{{ .Site.BaseURL }}{{ $feed.image }}</url>
+      <link>{{ $catURL }}</link>
+    </image>
+    <itunes:summary>{{ $feed.itunes.summary }}</itunes:summary>
+    <itunes:author>{{ $feed.itunes.author }}</itunes:author>
+    <itunes:subtitle>{{ if $feed.itunes.subtitle }}{{ $feed.itunes.subtitle }}{{ else }}{{ $feed.title }}{{ end }}</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>{{ $feed.itunes.owner }}</itunes:name>
+      <itunes:email>{{ $feed.itunes.email }}</itunes:email>
+    </itunes:owner>
+    <itunes:image href="{{ .Site.BaseURL }}{{ $feed.image }}" />
+    <itunes:category text="{{ $feed.itunes.category }}">
+      <itunes:category text="{{ $feed.itunes.subcategory }}" />
+    </itunes:category>
+    <itunes:explicit>{{ $feed.itunes.explicit }}</itunes:explicit>
+    <rawvoice:subscribe feed="{{ $feedURL }}" itunes="{{ $feed.itunes.url }}" />
+    {{ range first $feed.limit .Pages -}}
+      <item>
+        {{- $ep := .Params.episode }}
+        {{- $content := printf "%s /// Scripture: %s | Speaker: %s | Date Recorded: %s | Running Time: %s" (trim (.Content | plainify) "\n") $ep.passage $ep.speaker $ep.service_date $ep.duration }}
+        <title>{{ .Title }}</title>
+        <link>{{ .Permalink }}</link>
+        <pubDate>{{ replace (.Date.Format "Mon, 02 Jan 2006 15:04:05 MST") "UTC" "GMT" }}</pubDate>
+        <guid>{{ .Permalink }}</guid>
+        {{- $post := . }}
+        {{ with .Params.episode -}}
+          {{ if not (eq $feed.content false) -}}<description>{{ $content }}</description>{{- end }}
+          {{ if not (eq $feed.content_encoded false) -}}
+            <content:encoded>{{ "<" | safeHTML }}![CDATA[
+              {{ trim $post.Content "\n" | safeHTML }}
+              <p>Scripture: {{ .passage }} &bull; Speaker: {{ .speaker }} &bull; Date Recorded: {{ .service_date }} &bull; Running Time: {{ .duration }}</p>
+            ]]></content:encoded>
+          {{- end }}
+        {{- end }}
+        <dc:creator>{{ $feed.itunes.owner }}</dc:creator>
+        {{ with .Params.episode -}}
+          <enclosure url="https://pdcst.click/c/bay-vista/files.bitbadger.solutions/sermons/{{ .media }}" length="{{ .length }}" type="{{ if .media_type }}{{ .media_type }}{{ else }}{{ $feed.default_media_type }}{{ end }}" />
+          <itunes:author>{{ $feed.itunes.owner }}</itunes:author>
+          <itunes:subtitle>{{ .subtitle }}</itunes:subtitle>
+          <itunes:summary>{{ $content }}</itunes:summary>
+          <itunes:image href="{{ $.Site.BaseURL }}{{ if .image }}{{ .image }}{{ else }}{{ $feed.image }}{{ end }}" />
+          <itunes:explicit>{{ if .explicit }}{{ .explicit }}{{ else }}{{ $feed.itunes.explicit }}{{ end }}</itunes:explicit>
+          <itunes:duration>{{ .duration }}</itunes:duration>
+        {{- end }}
+      </item>
+    {{- end }}
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+{{ define "main" }}
+  {{ range .Paginator.Pages -}}
+    <div>
+      <h3 class="sermon-title bvbc-heading"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+      {{ .Content }}
+      {{- with .Params.episode -}}
+        <div class="sermon-meta text-right">
+          <span class="no-wrap"><i class="fa fa-bookmark fa-lg" title="Passage"></i> {{ .passage }}</span>
+          &nbsp; &nbsp;
+          <span class="no-wrap"><i class="fa fa-user fa-lg" title="Speaker"></i> {{ .speaker }}</span>
+          &nbsp; &nbsp;
+          <span class="no-wrap"><i class="fa fa-calendar fa-lg" title="Service Date"></i> {{ .service_date }}</span>
+        </div>
+      {{- end }}
+    </div>
+  {{- end }}
+  <nav>
+    <ul>
+      {{ if .Paginator.HasPrev -}}
+        <li class="previous.item"><a href="{{ .Paginator.Prev.URL }}">&#xab; Newer Sermons</a></li>
+      {{- else -}}
+        <li></li>
+      {{- end }}
+      {{ if .Paginator.HasNext -}}
+        <li class="next.item"><a href="{{ .Paginator.Next.URL }}">Older Sermons &#xbb;</a></li>
+      {{- end }}
+    </ul>
+  </nav>
+{{ end }}

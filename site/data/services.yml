@@ -1,0 +1,8 @@
+- day: Sunday
+  services:
+  - name: Sunday School (all ages)
+    time: 9:00 am
+  - name: Worship Service
+    time: 10:30 am
+  - name: Awana / Trek / Journey (School Year Only)
+    time: 5:00 pm
