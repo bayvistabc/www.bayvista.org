@@ -9,7 +9,7 @@ episode:
   duration: "42:37"
   passage: Psalm 145
   speaker: Bro. Danny Nance
-  service_date: March 6th, 2024
+  service_date: March 3rd, 2024
 resources:
   playlist: PLdltai4xtI5g-OTEtK7C9lOX31Og7SIWH
   service_video: KZeC9GzFyNU
