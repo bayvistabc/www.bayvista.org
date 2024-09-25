@@ -9,7 +9,7 @@ episode:
   duration: "45:56"
   passage: Colossians 2:16–23
   speaker: Bro. Danny Nance
-  service_date: September 16th, 2024
+  service_date: September 15th, 2024
 resources:
   playlist: PLdltai4xtI5iOTYdPIzdyvg_Ynb90j7pe
   service_video: coN_GRGMt7Y
