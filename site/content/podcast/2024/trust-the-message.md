@@ -14,4 +14,4 @@ resources:
   playlist: PLdltai4xtI5j_xQOuen2uVrmm3-BIOR90
   service_video: oR7_7VMyk2E
 ---
-When fear threatens to keep us from being obedient and sharing out faith, the Chrisitian must always remember to trust the message, not the messenger.
+When fear threatens to keep us from being obedient and sharing out faith, the Chrisitian must always remember to trust the message, not the messenger
