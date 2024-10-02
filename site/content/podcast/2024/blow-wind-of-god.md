@@ -1,6 +1,6 @@
 ---
 title: Blow Wind of God
-date: 2024-01-28 015:00:00
+date: 2024-01-28 15:00:00
 categories:
 - Audio
 episode:
