@@ -4,7 +4,7 @@ date: 2024-12-16 07:00:00
 categories:
 - Audio
 episode:
-  media: 20241216-bayvista-audio.mp3
+  media: 20241215-bayvista-audio.mp3
   length: 14347596
   duration: 42:37"
   passage: Isaiah 12:1-6
