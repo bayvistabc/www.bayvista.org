@@ -6,7 +6,7 @@ categories:
 episode:
   media: 20241222-bayvista-audio.mp3
   length: 14873016
-  duration: 43:56"
+  duration: 43:56
   passage: Luke 1:46-55
   speaker: Bro. Danny Nance
   service_date: December 22nd, 2024
