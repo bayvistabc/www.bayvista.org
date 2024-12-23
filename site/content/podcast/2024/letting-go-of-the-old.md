@@ -6,7 +6,7 @@ categories:
 episode:
   media: 20241020-bayvista-audio.mp3
   length: 17594358
-  duration: 52:34"
+  duration: "52:34"
   passage: Colossians 3:5-11
   speaker: Bro. Danny Nance
   service_date: October 20th, 2024

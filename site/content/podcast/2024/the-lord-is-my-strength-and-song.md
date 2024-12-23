@@ -6,7 +6,7 @@ categories:
 episode:
   media: 20241215-bayvista-audio.mp3
   length: 14347596
-  duration: 42:37"
+  duration: "42:37"
   passage: Isaiah 12:1-6
   speaker: Bro. Danny Nance
   service_date: December 15th, 2024
