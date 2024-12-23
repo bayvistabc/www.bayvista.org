@@ -2,7 +2,8 @@ baseURL: https://www.bayvista.org/
 languageCode: en-US
 title: "Bay Vista Baptist Church"
 theme: bayvista
-paginate: 10
+pagination:
+  pagerSize: 10
 taxonomies:
   category: categories
 permalinks:
