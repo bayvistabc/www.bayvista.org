@@ -8,7 +8,7 @@ episode:
   length: 20076022
   duration: "47:35"
   passage: Mark 14:12-26
-  speaker: Bro. Jacob Volm Nance
+  speaker: Bro. Jacob Volm
   service_date: April 17th, 2025
 resources:
   playlist: PLdltai4xtI5jLPYMiEQ7BF4qqIPzHUqOB
