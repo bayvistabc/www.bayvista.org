@@ -6,7 +6,7 @@ categories:
 episode:
   media: 20250518-bayvista-audio.mp3
   length: 14349663
-  duration: 44:51"
+  duration: "44:51"
   passage: Ecclesiastes 8:9-15
   speaker: Bro. Danny Nance
   service_date: May 18th, 2025
