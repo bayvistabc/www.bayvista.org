@@ -23,7 +23,7 @@
 - name: Adult 1
   age_group: Adult Co-Ed
   building: EEC
-  room: 101
+  room: 101 (Orange)
   curriculum: The Gospel Project
   teachers:
   - name: Bill Collum
@@ -33,14 +33,14 @@
 - name: Young-ish Adults
   age_group: 18-35
   building: EEC
-  room: Red
+  room: Red 
   curriculum: The Gospel Project
   teachers:
   - name: Dave Atkins
     img: 
   - name: Alan Thomas
     img: 
-  - name: Ladies 1 -- Meets Tuesdays 10AM
+- name: Ladies 1 -- Meets Tuesdays 10AM
   age_group: Adult Ladies
   building: EEC
   room: Room 101 (Orange)
@@ -52,7 +52,7 @@
     img:  
   - name: Becky Harlan
     img:
-- name: Satureday Adult Fellowship Experience (SAFE)
+- name: Saturday Adult Fellowship Experience (SAFE)
   age_group: Adult Co-Ed
   building: EEC 
   room: 101 (Orange)
