@@ -11,8 +11,6 @@
   teachers:
   - name: Angel Thomas
     img: 
-  - name: Alan Thomas
-    img: 
   - name: Teresa Untershine
 - name: Middle School / Youth
   age_group: 6th - 12th Grades
@@ -24,15 +22,25 @@
     img:
 - name: Adult 1
   age_group: Adult Co-Ed
-  building: Sanctuary
-  room: Sanctuary
+  building: EEC
+  room: 101
   curriculum: The Gospel Project
   teachers:
   - name: Bill Collum
     img: 
+  - name: Neil Parker
+    img: 
+- name: Young-ish Adults
+  age_group: 18-35
+  building: EEC
+  room: Red
+  curriculum: The Gospel Project
+  teachers:
   - name: Dave Atkins
     img: 
-- name: Ladies 1 -- Meets Tuesdays 10AM
+  - name: Alan Thomas
+    img: 
+  - name: Ladies 1 -- Meets Tuesdays 10AM
   age_group: Adult Ladies
   building: EEC
   room: Room 101 (Orange)
@@ -40,17 +48,17 @@
   teachers:
   - name: Betty Hardman
     img: 
-  - name: Becky Harlan
+  - name: Stephanie Collum
     img:  
-  - name: Nellie Schofield
+  - name: Becky Harlan
     img:
-- name: Adult 3
-  age_group: Median Adult Co-Ed
-  building: Worship Center
-  room: West Practice Room
-  curriculum: The Gospel Project
+- name: Satureday Adult Fellowship Experience (SAFE)
+  age_group: Adult Co-Ed
+  building: EEC 
+  room: 101 (Orange)
+  curriculum: 
   teachers:
   - name: Don Beaucaire
     img: 
-  - name: Cheryl Kirk
+  - name: 
     img: 

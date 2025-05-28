@@ -18,22 +18,31 @@ url: /about-us/church-staff/
       <i class="fa fa-envelope" title="E-mail"></i>&nbsp; <a href="mailto:pastor@bayvista.org?Subject=Message from Website">Send Message</a><br>&nbsp;
     </div>
   </div>
+   <div class="member">
+    <div class="bvbc-heading"><h4 class="heading text-center">Associate Pastor</h4></div>
+    <table>
+      <tr>
+        <td class="text-center">
+          <div class="image" style="background-image: url('/img/staff/bill-collum-175.jpg')">&nbsp;</div>
+          <strong>Bill Collum</strong>
+        </td>
+      </tr>
+    </table>
+    <div class="footer">
+      <i class="fa fa-envelope" title="E-mail"></i>&nbsp; <a href="mailto:admin@bayvista.org?Subject=Message from Website">Send Message</a><br>&nbsp;
+    </div>
+  </div>
   <div class="member">
     <div class="bvbc-heading"><h4 class="heading text-center">Minister of Music</h4></div>
     <table>
       <tr>
         <td class="text-center">
-          <strong><em>Vacant</em></strong><br>
-          <small>
-            Interim Leaders:<br>
-            Charmel Seto <em>(Choir / Planning)</em><br>
-            David Atkins <em>(Congregation)</em>
-          </small>
+          <strong><em>Charmel Seto </em></strong><br>
         </td>
       </tr>
     </table>
     <div class="footer">
-      <i class="fa fa-envelope" title="E-mail"></i>&nbsp; <a href="mailto:music@bayvista.org?Subject=Message from Website">Send Message</a><br>
+      <i class="fa fa-envelope" title="E-mail"></i>&nbsp; <a href="mailto:Charmel@bayvista.org?Subject=Message from Website">Send Message</a><br>
       <i class="fa fa-link" title="Link"></i>&nbsp; <a title="Worship" href="/ministries/worship/">View Ministry Site</a>
     </div>
   </div>
@@ -42,8 +51,8 @@ url: /about-us/church-staff/
     <table>
       <tr>
         <td class="text-center">
-          <div class="image" style="background-image: url('/img/staff/pam-spurlin-175.jpg')">&nbsp;</div>
-          <strong>Pam Spurlin</strong>
+          <div class="image" style="background-image: url('/img/staff/natalie-atkins-175.jpg')">&nbsp;</div>
+          <strong>Natalie Atkins</strong>
         </td>
       </tr>
     </table>
