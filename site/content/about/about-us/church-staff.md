@@ -37,7 +37,8 @@ url: /about-us/church-staff/
     <table>
       <tr>
         <td class="text-center">
-          <strong><em>Charmel Seto </em></strong><br>
+           <div class="image" style="background-image: url('/img/staff/charmel-seto-175.jpg')">&nbsp;</div>
+           <strong><em>Charmel Seto </em></strong><br>
         </td>
       </tr>
     </table>
