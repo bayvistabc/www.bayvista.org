@@ -21,7 +21,12 @@ url: /about-us/directions-service/
     </p>
     <p>
       <strong>Wednesday Evening:</strong><br>
-      06:30pm - Worship Choir Rehearsal
+      05:30pm - Corporate Prayer Meeting
+      06:00pm - Praise Team/Worship Choir Rehearsal
+    </p>
+    <p>
+      <strong>Saturday Morning:</strong><br>
+      10:30am - Saturday Adult Fellowship Experience (SAFE)
     </p>
   </div>
 </div>

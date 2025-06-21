@@ -9,17 +9,17 @@ This is the musical experience for everyone, and not just because it involves ev
 
 ## Worship Choir
 
-The Bay Vista Worship Choir is the main vocal ensemble in our church and is one of the finest volunteer groups on the coast. All vocal soloists and small ensemble members are also members of the Worship Choir. We lead corporate worship in song each Sunday during our morning service, and we also provide special music at least twice each month. We meet to pray Wednesday evenings at 6:15pm (in the choir room, located in the north end of the [worship center](/about-us/campus-map/)), participate in the church-wide prayer meeting at 6:30pm, then rehearse from 7-8pm. As we prepare for special musical events, we sometimes have mystery rehearsals in "exotic" secret locations.
+The Bay Vista Worship Choir is the main vocal ensemble in our church and is one of the finest volunteer groups on the coast. All vocal soloists and small ensemble members are also members of the Worship Choir. We lead corporate worship in song each Sunday during our morning service. We meet to pray Wednesday evenings at 5:30pm [worship center](/about-us/campus-map/)), then rehearse from 6-7pm. As we prepare for special musical events, we sometimes have mystery rehearsals in "exotic" secret locations.
 
 No audition is required to join the Worship Choir, though volunteers should agree to follow [the peer-developed guidelines](./choir-guidelines/). Come "test-drive" singing with us by attending a rehearsal this week. You'll be amazed at all the fun you'll have while preparing to lead worship!
 
 ## Praise Singers
 
-Bay Vista's Praise Singers rehearse twice per week, on Wednesdays at 5:30pm and Sundays at 8:00am, in the main [worship center](/about-us/campus-map/). Not only do they actively engage worshippers each and every Sunday morning, but they also function as a small ensemble to bring special music to our worship service from time to time. Membership in the Worship Choir is required to be considered for Praise Singers, who are chosen by audition as positions become available.
+Bay Vista's Praise Singers rehearse twice per week, on Wednesdays at 6pm and Sundays at 8:00am, in the main [worship center](/about-us/campus-map/). Not only do they actively engage worshippers each and every Sunday morning, but they also function as a small ensemble to bring special music to our worship service from time to time. Membership in the Worship Choir is required to be considered for Praise Singers, who are chosen by audition as positions become available.
 
-## Praise Band / Orchestra
+## Praise Band 
 
-The Psalms give many examples of using instrumentals in worship, and we enjoy a variety of them! Our praise band / orchestra rehearses twice per week, at the same time and place as the Praise Singers, and provide music for our morning worship time each Sunday.
+The Psalms give many examples of using instrumentals in worship, and we enjoy a variety of them! Our praise band rehearses twice per week, at the same time and place as the Praise Singers, and provide music for our morning worship time each Sunday.
 
 Would you like to be involved in this area of musical worship? If you still have your instrument, bring it to rehearsal and join the fun! If you sold or gave away your instrument long ago, no worries; we can help you find an instrument to borrow. If you have an available instrument, but no desire to play, consider donating or lending your instrument to Bay Vista; we'll find someone with the talent and desire to use it to glorify God.  If any of that applies to you, please [contact us](/contact-us/) to become part of this ministry.
 

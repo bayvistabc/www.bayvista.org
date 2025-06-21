@@ -11,8 +11,4 @@ Sound plays a critical role in our worship services. From providing pre-recorded
 
 Projection enables our blended music style, as we can incorporate new (or old) songs that may not be in the hymnals in our pews. It also helps worshippers look up, or even close their eyes as they sing, without having to keep their place in a book. We can use volunteers with even a very basic knowledge of computers and a heart for worship. If you're comfortable working in Windows and checking e-mail, we can train you to work in the projection booth. We'll stay with you until you can confidently display text and video for the services.  [Call](/contact-us/) our office for more info.
 
-## Lights
-
-Lighting enhances worship by helping to create the proper atmosphere in our worship center. We need folks willing to be trained on the proper operation of our lighting system, which we use for each worship service and for special events as they occur throughout the year. This is your chance to put those creative technical skills to use for the Lord Jesus. [Contact](/contact-us/) our office today to get more info!
-
 [&#xab; Back to Worship Ministries](..)
