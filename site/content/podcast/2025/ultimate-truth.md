@@ -14,4 +14,4 @@ resources:
   playlist: PLdltai4xtI5jju5gvH8DGmOVU6RTlD449
   service_video: QQaqVS81M2g
 ---
-Today's message shows the testimony of God about His son, Jesus.
+Today's message shows God's testimony about His son, Jesus.
