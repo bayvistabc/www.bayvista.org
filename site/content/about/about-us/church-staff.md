@@ -38,7 +38,7 @@ url: /about-us/church-staff/
       <tr>
         <td class="text-center">
            <div class="image" style="background-image: url('/img/staff/charmel-seto-175.jpg')">&nbsp;</div>
-           <strong><em>Charmel Seto </em></strong><br>
+           <strong>Charmel Seto</strong><br>
         </td>
       </tr>
     </table>
@@ -48,7 +48,7 @@ url: /about-us/church-staff/
     </div>
   </div>
   <div class="member">
-    <div class="bvbc-heading"><h4 class="heading text-center">Office Administrator</h4></div>
+    <div class="bvbc-heading"><h4 class="heading text-center">Office Administrator/outh &amp; Children's Ministry Director</h4></div>
     <table>
       <tr>
         <td class="text-center">
@@ -59,21 +59,6 @@ url: /about-us/church-staff/
     </table>
     <div class="footer">
       <i class="fa fa-envelope" title="E-mail"></i>&nbsp; <a href="mailto:office@bayvista.org?Subject=Message from Website">Send Message</a><br>&nbsp;
-    </div>
-  </div>
-  <div class="member">
-    <div class="bvbc-heading"><h4 class="heading text-center">Youth &amp; Children's Ministry Director</h4></div>
-    <table>
-      <tr>
-        <td class="text-center">
-          <div class="image" style="background-image: url('/img/staff/natalie-atkins-175.jpg')">&nbsp;</div>
-          <strong>Natalie Atkins</strong>
-        </td>
-      </tr>
-    </table>
-    <div class="footer">
-      <i class="fa fa-envelope" title="E-mail"></i>&nbsp; <a href="mailto:natalie@bayvista.org?Subject=Message from Website">Send Message</a><br>
-      <i class="fa fa-link" title="Link"></i>&nbsp; <a title="Worship" href="/ministries/children/">View Ministry Site</a>
     </div>
   </div>
 </div>
