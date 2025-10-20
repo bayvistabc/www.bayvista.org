@@ -4,7 +4,7 @@ date: 2025-10-06 07:00:00
 categories:
 - Audio
 episode:
-  media: 20251006-bayvista-audio.mp3
+  media: 20251005-bayvista-audio.mp3
   length: 17844779
   duration: "52:18"
   passage: Isaiah 55:1–9
