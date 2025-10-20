@@ -5,7 +5,7 @@ categories:
 - Audio
 episode:
   media: 20251006-bayvista-audio.mp3
-  length: 17,844,779
+  length: 17844779
   duration: "52:18"
   passage: Isaiah 55:1–9
   speaker: Bro. Danny Nance
