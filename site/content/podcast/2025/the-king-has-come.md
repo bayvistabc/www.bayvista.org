@@ -12,6 +12,6 @@ episode:
   service_date: December 28th, 2025
 resources:
   playlist: PLdltai4xtI5idaX_Y1jNYXccMfC5Gca2B
-  service_video:
+  service_video: XnEu7F_0SMA
 ---
 Today's message deals with how we respond to the birth of Jesus.
