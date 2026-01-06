@@ -6,7 +6,7 @@ categories:
 episode:
   media: 20260104-bayvista-audio.mp3
   length: 22597010
-  duration: "01:00"
+  duration: "60:00"
   passage: John 6:22-29
   speaker: Bro. Bill Collum
   service_date: January 4th, 2026
